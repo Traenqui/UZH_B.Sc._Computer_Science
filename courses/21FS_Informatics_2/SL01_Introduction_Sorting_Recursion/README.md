@@ -2,7 +2,7 @@
 
 ## Search (basic)
 
-the following Search algorithm is O=n
+The following Search algorithm is O=n
 
 ### Linear Search
 
@@ -111,7 +111,7 @@ void insertionSort(int n, int array[]){
 
 Recursive algorithm drawing Sierpinski Triangle of depth d.
 
-````c
+```c
 void Sierpinski(int x, int y, int h, int d){
     if (d > 0){
         drawTriangle(x-h/2, y);
@@ -123,5 +123,4 @@ void Sierpinski(int x, int y, int h, int d){
     Sierpinski(x+h/2, y + h/2, h/2, d--); // Right Triagle
     Sierpinski(x, y-h, h/2, d--) // Bottom Triangle
 }
-```]
-````
+```
