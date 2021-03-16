@@ -32,7 +32,8 @@ Enter an integer: 37
 Perfect Square Number: FALSE
 ```
 
-###Task 3. Matrix Multiplication
+### Task 3. Matrix Multiplication
+
 A matrix of integers is a 2-dimensional array of integers in C. Given two matrices A and B, write a C program to calculate the result of matrix multiplication of A and B. Assume that both A and B are 3 × 3 2-dimensional C arrays. Your program should initialize a 2-dimensional matrix (with any integers you like), calculate the matrix multiplication and print the result row by row. You can verify your result with calculators or any tools.
 
 ## Sorting
