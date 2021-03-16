@@ -3,7 +3,7 @@
 ## Boolean & De Morgan Law
 
 - tautology
-  - $\models A$, $t$
+  - $$\models A$$, $t$
   - Eine allgemein gültige Aussage
   - "Wenn es regent, dann regnet es"
 - contradiction
