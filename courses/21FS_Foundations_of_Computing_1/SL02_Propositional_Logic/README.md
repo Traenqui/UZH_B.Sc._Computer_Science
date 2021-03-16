@@ -1,9 +1,9 @@
-# VL2: Propositional Logic
+# SL02: Propositional Logic
 
 ## Boolean & De Morgan Law
 
 - tautology
-  - $$\models A$$, $t$
+  - $\models A$, $t$
   - Eine allgemein gültige Aussage
   - "Wenn es regent, dann regnet es"
 - contradiction
