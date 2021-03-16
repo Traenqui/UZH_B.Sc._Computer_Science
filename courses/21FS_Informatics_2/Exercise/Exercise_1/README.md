@@ -17,3 +17,12 @@ Write a C program with a function void reverse(char s[]) that re- verses and pri
 Please enter a string to reverse: **Hello World!**
 Result String: !dlroW olleH
 ```
+
+### Task 2. Perfect Square Number
+
+A perfect square number is an integer that is the square of another integer. Write a C function with a loop bool isPerfectSquare(int num) that determines whether an integer is a perfect square number or not. Your program should prompt the user to type in an integer. After an integer is typed in, your program prints “TRUE” if it is a perfect square number, otherwise, “FALSE”. Do not use any built-in library functions in this task Two input/output examples are illustrated below (input is typeset in bold):
+
+```
+Enter an integer: __25__
+Perfect Square Number: TRUE
+```
