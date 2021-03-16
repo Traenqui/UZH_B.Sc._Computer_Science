@@ -1,0 +1,47 @@
+# VL2: Propositional Logic
+
+## Boolean & De Morgan Law
+
+- tautology
+  - $\models A$, $t$
+  - Eine allgemein gültige Aussage
+  - "Wenn es regent, dann regnet es"
+- contradiction
+  - $\bot A$, $c$
+  - Eine widersprüchliche Aussage
+  - Beispielsweise kann man
+    - einerseits schließen, dass, wenn die Aussage „Die Welt ist nicht rund“ wahr ist, die Aussage „Die Welt ist rund“ falsch sein muss;
+    - andererseits dass, wenn die Aussage „Die Welt ist nicht rund“ falsch ist, die Aussage „Die Welt ist rund“ wahr sein muss.
+- commutative law
+  - $p∨q≡q∨p$
+  - $p∧q≡q∧p$
+- associative law
+  - $(p ∧ q) ∧ r ≡ p∧ (q ∧ r)$
+  - $(p ∨ q) ∨ r ≡ p ∨ (q ∨ r)$
+- distributive law
+  - $p ∧ (q ∨ r) ≡ (p ∧ q) ∨ (p ∧ r)$
+  - $p ∨ (q ∧ r) ≡ (p ∨ q) ∧ (p ∨ r)$
+- identity law
+  - $p∧t≡p$
+  - $p∨c≡p$
+- negation law
+  - $p ∨ ¬p ≡ t$
+  - $p ∧ ¬p ≡ c$
+- double negation law
+  - $¬¬p ≡ p$
+- idempotent law
+  - $p∧p≡p$
+  - $p∨p≡p$
+- universal bound law
+  - $p∨t≡t$
+  - $p∧c≡c$
+- De Morgan's law
+  - $¬(p ∧ q) ≡ ¬p ∨ ¬q$
+  - $¬(p ∨ q) ≡ ¬p ∧ ¬q$
+- absorption law
+  - $p ∨ (p ∧ q) ≡ p$
+  - $p ∧ (p ∨ q) ≡ p$
+- Definition of Conditional
+  - $p ⇒ q≡¬p∨q$
+- Definition of Biconditional
+  - $p \Leftrightarrow q≡(¬p∨q)∧(¬q∨p)$
