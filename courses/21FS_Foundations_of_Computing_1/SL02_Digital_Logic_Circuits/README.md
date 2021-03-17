@@ -65,5 +65,7 @@
   A 2-1 Mux, changes the output based on the Selection Input
 
 ![alt text](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Foundations_of_Computing_1/SL03_Digital_Logic_Circuits/Buffer_NOT.png)
+
 ![alt text](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Foundations_of_Computing_1/SL03_Digital_Logic_Circuits/AND_OR.png)
+
 ![alt text](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Foundations_of_Computing_1/SL03_Digital_Logic_Circuits/XOR.png)
