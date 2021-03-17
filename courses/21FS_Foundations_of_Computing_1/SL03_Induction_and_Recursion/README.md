@@ -6,8 +6,8 @@ Conditional instructions are denoted either as
 
 ```
 if(condition)
-  then s<sub>1</sub>
-  else s<sub>2</sub>
+  then s1
+  else s2
 ```
 
 or
