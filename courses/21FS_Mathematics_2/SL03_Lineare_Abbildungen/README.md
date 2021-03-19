@@ -1,0 +1,11 @@
+# Ein (unvollständiger) Rückblick
+- Eine lineare Abbildung kann vollständig durch eine Matrix A als y = Ax beschrieben werden.
+- Das Bild von y = Ax ist eine lineare Hülle der Spalten von A, die Dimension des Bilds entspricht dem Rang von A
+- Die Umkehrabbildung einer linearen Abbildung f(x) = Ax ist (im Falle ihrer Existenz) f^(-1)(x)= A^-1x, wobei A^-1 die Inverse von A sit
+- Die Determinante ist eine Kennzahl einer quadratischen Matrix, welche man als einen verallgemeinerten Volumenbegriff verstehen kann
+- Die Determinante kann durch eine sogenannte Entwicklung nach beliebigen Zeilen oder Spalten mithilfe der Formel der Determinante einer 2x2-Matrix berechnet werden
+- Eine quadratische Matrix hat genau dann eine Inverse, wenn sie vollen Rang hat. Dabei hat die Matrix genau dann vollen Rang, wenn ihre Determinante ungleich 0 ist
+- Ein Eigenvektor vi einer quadratischen Matrix A wird durch die lineare Abbildung mit Abbildungsmatrix A stets auf ein Vielfaches λv von sich selbst abgebildet. Den Faktor λ nennt man Eigenwert der Matrix
+- Eigenwerte λ und Eigenvektor v kann man wie folgt bestimmen:
+	- 1&2) Löse det(A-λI) = 0 nach λ auf, um λs zu finden
+	- 3 Für gegebenes λ, finde v mit Av = λv
