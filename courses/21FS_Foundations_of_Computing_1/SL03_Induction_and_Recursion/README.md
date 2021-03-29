@@ -72,3 +72,24 @@ Authors who prefer to define natural numbers to begin at 0 use that value in the
 3. State and prove your base case. All inductive proofs require some kind of base case, so it's probably best to start off by proving it. You've defined what P(n) is in step (1), and now you need to prove P(0). We recommend explicitly writing out what P(0) actually states before you try to prove it. This will communicate to your reader what you're going to prove and helps make it clearer what you need to show. For example, you might write “We will prove P(0), which states that ...” or “For our base case, we'll prove P(0), namely, that …”
 4. State and prove the inductive step. The inductive step in a proof by induction is to show that for any choice of k, if P(k) is true, then P(k+1) is true. Typically, you'd prove this by assuming P(k) and then proving P(k+1). We recommend specifically writing out both what the assumption P(k) means and what you're going to prove when you show P(k+1). As with step (3), this makes it clearer to the reader what they're going to see next and helps you confirm that you know what you're assuming and what you're proving.
 5. Conclude the proof. This usually isn't too much – you can just say something like “completing the proof by induction” and add the little boxy ■ symbol. You're done!
+
+## Recurrences
+
+A recurrence relation for a sequence is a formula that relates each term to some of its predecessors with some initial values
+
+```
+a_0, a_1 ...
+a_k = f(a_(k-1))
+
+```
+
+### Terminology
+
+- If a*k depends on its predecessor (a*(k-1)), it is called first order recurrence realation
+- If a*k depends on its predecessor (a*(k-1), a\_(k-2)), it is called second order recurrence realation
+
+## Recursive functions
+
+## Correctness of algorithms
+
+## Fractals
