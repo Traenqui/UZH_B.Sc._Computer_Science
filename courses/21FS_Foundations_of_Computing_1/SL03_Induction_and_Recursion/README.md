@@ -85,8 +85,49 @@ a_k = f(a_(k-1))
 
 ### Terminology
 
-- If a*k depends on its predecessor (a*(k-1)), it is called first order recurrence realation
-- If a*k depends on its predecessor (a*(k-1), a\_(k-2)), it is called second order recurrence realation
+- If a\_(k) depends on its predecessor (a\_(k-1)), it is called first order recurrence realation
+- If a\_(k) depends on its predecessor (a\_(k-1), a\_(k-2)), it is called second order recurrence realation
+
+Suppose you have a sequence that satifies a certain recurrence relation with initial conditions
+
+```
+a_0, a_1, ... , a_(i-1)
+a_k = f(a_(k-1), a_(k-2), ..., a_(k-j))
+```
+
+How do you find a explicit formula?
+
+This may be very difficult (and sometimes impossible) but the most basic method is called iteration:
+
+1. Start with the initial conditions and calculate successive terms until you see a pattern
+2. Guess an explicit formula
+3. Prove (or disprove) the formula
+
+### Arithmetic Sequences
+
+Each term of an arithmitic sequence is obtained by adding a constant to its predecessor
+
+```
+a_n = a_(n-1) + d
+```
+
+where d is a constant and a_0 is the initial value.
+
+### Geometric Sequences
+
+Ech term of a geometric sequence is obtained by multiplying its predecessor by a constant
+
+```
+a_n = r * a_(n-1)
+```
+
+where r is a constant and a_0 is the initial value.
+
+Many computer science problems involve the sum of geometric sequences
+
+- e.g. modeling the onset of a pandemic
+- e.g. computing the interest accumulated after n years
+- ...
 
 ## Recursive functions
 
