@@ -318,15 +318,15 @@ In left-rotation, the arrangement of the nodes on the right is transformed into 
 **Algorithm**
 
 1. Let the initial tree be:
-   ![Initial Tree]()
+   ![Initial Tree](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Informatics_2/SL06_Trees_red-black_Tree/src/leftrotate-1_0.png.webp)
 2. If y has a left subtree, assign x as the parent of the left subtree of y.
-   ![Assign x as the parent of the left subtree of y]()
+   ![Assign x as the parent of the left subtree of y](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Informatics_2/SL06_Trees_red-black_Tree/src/leftrotate-2_0.png.webp)
 3. If the partent of x is NULL, make y as the root of the tree.
 4. Else if x is the left child of p, make y as the left child of p.
 5. Else assign y as the right child of p.
-   ![Change the parent of x to that of y]()
+   ![Change the parent of x to that of y](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Informatics_2/SL06_Trees_red-black_Tree/src/leftrotate-3_0.png.webp)
 6. Make y as the prent of x.
-   ![Assign y as the parent of x]()
+   ![Assign y as the parent of x](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Informatics_2/SL06_Trees_red-black_Tree/src/leftrotate-4_0.png.webp)
 
 #### Right Rotate
 
