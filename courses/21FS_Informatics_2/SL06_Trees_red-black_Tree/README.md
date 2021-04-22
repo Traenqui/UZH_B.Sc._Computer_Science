@@ -335,28 +335,28 @@ In right-rotation, the arrangement of the nodes on the left is transformed into 
 **Algorithm**
 
 1. Let the initial tree be:
-   ![Initial Tree]()
+   ![Initial Tree](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Informatics_2/SL06_Trees_red-black_Tree/src/rightrotate-1_0.png.webp)
 2. If x has a right subtree, assign y as the parent of the right subtree of x.
-   ![Assign y as the parent of the right subtree of x]()
+   ![Assign y as the parent of the right subtree of x](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Informatics_2/SL06_Trees_red-black_Tree/src/rightrotate-2_0.png.webp)
 3. If the parent of y is NULL, make x as the root of the tree.
 4. Else if y is the right child of its parent p, make x as the right child of p.
 5. Else assign x as the left child of p.
-   ![Assign the parent of y as the parent of x]()
+   ![Assign the parent of y as the parent of x](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Informatics_2/SL06_Trees_red-black_Tree/src/rightrotate-3_0.png.webp)
 6. Make x as the parent of y.
-   ![Assign x as the parent of y]()
+   ![Assign x as the parent of y](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Informatics_2/SL06_Trees_red-black_Tree/src/rightrotate-4_0.png.webp)
 
 #### Left-Right and Right-Left Rotate
 
 In left-right rotation, the arrangements are first shifted to the left and then to the right.
 
 1. Do left rotaion on x-y
-   ![Left rotate x-y]()
+   ![Left rotate x-y](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Informatics_2/SL06_Trees_red-black_Tree/src/leftright-rotate-1_0.png.webp)
 2. Do right rotation on y-z
-   ![Right rotate z-y]()
+   ![Right rotate z-y](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Informatics_2/SL06_Trees_red-black_Tree/src/leftright-rotate-2_0.png.webp)
 
 In right-left rotation, the arrangements are first shifted to the right and then to the left.
 
 1. Do right rotation on x-y.
-   ![Right rotate x-y]()
+   ![Right rotate x-y](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Informatics_2/SL06_Trees_red-black_Tree/src/rightleft-rotate-1_0.png.webp)
 2. Do left rotation on z-y.
-   ![Left rotate z-y]()
+   ![Left rotate z-y](https://github.com/Traenqui/UZH_B.Sc._Computer_Science/blob/master/courses/21FS_Informatics_2/SL06_Trees_red-black_Tree/src/rightleft-rotate-2_0.png.webp)
