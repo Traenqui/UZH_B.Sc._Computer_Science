@@ -131,6 +131,101 @@ Many computer science problems involve the sum of geometric sequences
 
 ## Recursive functions
 
+- A function is said to be a recursive function if its rule of definition refers to itself.
+- A recursive function has one or more base case and one or more recursive calls to itself.
+- If we know the base cases are correct, and that we get the correct solution assuming the recursive calls work, then by the principle of induction we know that the function is correct.
+
+### Recursion vs. Iteration
+
+Any recursive algorithm can be transformed into a iterative one and vice versa, although converting a recursive one into an iterative one may be more difficult.
+
+- **Advantages of recursion**:
+
+  - **Easier to implement** for complex problems (e.g., Tower of Hanoi, Tromino problem)
+  - More **elegant** and **easier to interpret** algorithms
+  - More **concise** (fewer lines of code)
+
+- **Disadvantages of recursion**
+  - Recursion repeatedly invokes the same function: **more expensive** in processor **time** and **memory space**
+
 ## Correctness of algorithms
 
-## Fractals
+- **A program is correct if it produces the correct output for a set of expected inputs** (the expected outputs and expected inputs are specified in the documentation accompanying the program)
+- Since **iterative algorithms represent the most part of computer programs** (remember that algorithms are meant to replace humans at repeated actions), we will concentrate on studying the **correctness of iterative or recursive algorithms**.
+- To do so, we will use the method of the loop invariant, which is based on the principle of mathematical induction.
+
+Consider an iterative/recursive algorithm that is designed to produce a certain final state from a certain initial state. Both the initial and final states can be expressed as properties involving the
+input and output variables.
+
+### Pre-Condition
+
+The property for the initial state is called pre-condition for the algorithm and determines the domain of acceptable inputs for the algorithm.
+
+```
+Example: in gcd(A,B). pre-condition is:
+"A and B are integers with A > B >= 0"
+```
+
+### Post-Condition
+
+The property for the final state is called post-condition for the algorithm and determines what the algorithm is supposed to compute.
+
+```
+Example: in gcd(A,B), the post-condition is:
+a = gcd(A,B)
+```
+
+### Correctness of Iterative/Recursive Algorithms
+
+An iterative/recursive algorithm is correct if and only if, whenever the input variables belong to the domain of acceptable inputs and the algorithm terminates after a finite number of steps, the algorithm returns the correct output.
+
+More formally:
+
+An iterative/recursive algorithm is correct with respect to its pre and post- condition if and only if, whenever the algorithm variables satisfy the pre- condition and the algorithm terminates after a finite number of steps, the algorithm variables satisfy the post-condition.
+
+### Loop Invariant
+
+A loop invariant is a property P(n) for a loop defined on a set of integers satisfying the condition:
+
+- For each iteration k of the loop, if the P(k) is true before the generic iteration k, then it is true after iteration, that is: P(k) -> P(k + 1) is true.
+
+The method of loop invariants is used to prove the correctness of a loop with respect to certain pre- and post-conditions based on the principle of mathematical induction.
+Entry to the loop is restricted by a condition G, called the guard.
+
+```
+[Pre-Condition for the loop]
+while(G)
+  [Statment in the body of the loop. None contain branching statments that lead outside the loop]
+end while
+[Post-Condition for the loop]
+```
+
+Let 𝑃(n) be the loop invariant for a loop. If the following four properties are true, then the loop is correct with respect to its pre and post-conditions:
+
+1. Basis property: P(0) is true. P(0) is P(n) before the first iteration of the loop.
+2. Inductive property: for any integer k ≥ 0, if the guard 𝐺𝐺 and the loop invariant P(k) are both true before an iteration of the loop, then P(k + 1) is true after iteration.
+3. Eventual Falsity of the Guard: after a finite number of iterations of the loop, the guard G becomes false.
+4. Correctness of the post-condition: if N is the least number of iterations after which G is false and P(n) is true, then the post-condition is satisfied
+
+### Correctness of the Factorial algorithm
+
+Let P(n): "fact = n!" be the loop invariant
+
+1. **Basis property**: P(0) corresponds to the base case where the loop has not yet started. This is the case when n = 0. In this case fact = 1, and this is true because 0! = 1. So P(0) is true.
+2. **Inductive property**
+
+- inductive hypothesis: assume G and P(k) true for an arbitrary iteration k, that is assume "fact(k) = k!" is true
+- We want to verify that P(k + 1) is true, i.e. fact(k+1) = (k + 1)!
+- **Proof**
+  - We observe that at the next iteration:
+
+3. Eventual Falsity if the Guard:
+
+- We want to verify whether, after a finite numbers of iterations of the loop, G becomes false
+- We observe that at the end of each iteration k increases by 1
+- Therefore, after n iterations, k will bekomm greater than n, making the guard G become false, which in turn will make the loop terminate
+
+4. Correctness of the post-condition:
+
+- if N is the least number of iterations after which G is false and P(N) is true, we want to verify whether the post-condition is satisfied
+- So we want to verify that fact = N! which is true because the value of fact has not changed after the loop terminated.
