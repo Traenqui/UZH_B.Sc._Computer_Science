@@ -426,3 +426,355 @@ Hindernisse für Diversität
 - Die zentralen Hindernisse für ein erfolgreiches Managen der Mitarbeitervielfalt sind **subtile Vorurteile**,
 - **Konformitätsdruck** und die **Similarity Attraction Bias**
 - **Einbindung** ist der Schlüssel zum erfolgreichen Management von Diversität
+
+## 3 Grundlagen individuellen Verhalten
+
+### 3.1 Fokus und Ziele organisationalen Verhalten
+Der Begriff Organizational Behavior (OB) beschreibt das Studium der Handlungen von Menschen bei der Arbeit. Das Schwierige an dem Bereich ist, dass vieles davon verborgen ist. Viele Dinge passieren im Verborgenen, was die Grafik des Eisbergs zeigt. So sind Dinge die in den Personen vorgehen verbogen, aber man kann es teilen wenn man möchte.
+
+#### 3.1.1 Fokus organisationalen Verhalten
+
+Es wird unterteilt zwischen 3 Gebiete:
+
+- Individuelles Verhalten
+  - Einstellung, Persönlichkeit, Wahrnehmung, Lernen & Motivation
+- Gruppenverhalten
+  - Normen, Teambildung, Führung und Konflikten
+- Organisationale Aspekte
+  - Struktur, Kultur und Personalpolitik
+
+#### 3.1.2 Ziele organisationalen Verhaltens
+
+Das Ziel von OB ist es die Verhaltensweisen zu erklären vorherzusagen und zu beeinflussen.
+
+- Mitarbeiterproduktivität
+  - Leistungskennzahl
+  - Effektivität und Effizienz
+- Absentismus
+  - Fernbleiben vom Arbeitsplatz
+- Fluktuation
+  - Freiwilliges oder unfreiwilliges dauerhaftes Ausscheiden aus der Organisation
+- Organizational Citizenship Behavior
+  - Dinge zu tun, welche nicht im Vertrag verabredet wurden
+  - Handlungen, welche Mitarbeiter vornimmt, welche nicht Teil seiner formalen Aufgaben sind aber helfen effektiven Funktionieren der Organisation zu unterstützen
+- Arbeitszufriedenheit
+  - Allgemeine Einstellung eines Mitarbeiters zu seiner Arbeit
+- Fehlverhalten am Arbeitsplatz
+  - Absichtliche Handlungen eines Mitarbeiters die der Organisation oder anderen Mitarbeitern schaden können
+  - Soziale als auch legale Normen
+
+### 3.2 Einstellung und Arbeitsleistung
+
+Einstellungen entstehen aus 3 Komponenten. Für Manager sind aber schlussendlich arbeitsbezogene Einstellungen von grossem Interesse. Es gibt hier drei häufig genannte Haltungen, welche in den nächsten Unterkapitel diskutiert werden. Kognitive Komponente (Evaluation), Affektive (Gefühl) & Verhaltenskomponente (Handlung)
+
+#### 3.2.1 Arbeitszufriedenheit
+
+Die Arbeitszufriedenheit betrifft die subjektive Gesamtbewertung der Qualität der eignen Arbeit. Arbeitszufriedenheit bezieht sich damit auf die Einstellung eines Mitarbeiters zu seiner Arbeit.
+Unzufriedenheit kann negative Folgen haben. Hier unterscheidet man von aktiv zu passiv, wobei es schlecht (destruktiv) für ein Unternehmen ist, wenn ein aktiver Mitarbeiter kündigt. Jedoch ist es gut, wenn man aktiv Initiative ergreift. Bei der Loyalität verhalte ich mich passiv und es ist somit konstruktiv.
+Es ist zu diskutieren, ob Leistung zu Arbeitszufriedenheit leitet oder ob es umgekehrt ist. So hat eine Meta-analyse von Riketta herausgefunden, dass Arbeitszufriedenheit zu Leistung führt, was dem Denken des Industriezeitalters widerspricht.
+Herzberg brachte dann aber den Aspekt, dass wir nicht von zufrieden zu unzufrieden auf einer Dimension ausgehen, sondern Dinge welche uns zufrieden machen, sind nicht die Dinge die uns unzufrieden machen wenn sie fehlen. Also wenn wir mehr Geld verdienen, dann sind wir nicht unbedingt glücklicher aber wir sind weniger unglücklich. Hygiene factors sagen uns, welche sein müssen und Motivators, sind solche welche uns Energie geben und uns antreiben. Auch die Wissenschaft zeigt, dass Geld nicht mit Glücklichkeit verbunden ist.
+
+**Social Influence Approach**
+Diese Theorie galt bis in den 90er/Mitte der 2000er. Wenn wir bestimmen, ob wir zufrieden sind oder nicht, dann schaut man immer auf das was man erwartet. Umweltmerkmale werden wahrgenommen. Die Bewertung hängt aber auch von sozialen Informationen ab, also was die anderen links und rechts denken. Dies führt dann zu unserer Arbeitseinstellung.
+
+![Social Influence Approach]()
+
+**Affective Events Theory**
+Die Arbeitseinstellung nach der Affective Events Theory ist kein statisches, sondern ein Ergebnis, was ich jeden Tag bei der Arbeit empfinde. So ist die Arbeitseinstellung unsere Zufriedenheit. Diese wirkt sich auf unser Verhalten aus, welche auch bei der positiven Korrelation gezeigt wurde. Wie man sich fühlt, liegt daran was bei der Arbeit passiert. Diese wiederum ist abhängig von der Arbeitsumgebung, welche sie sich ausgewählt haben und in der sie sich befinden. Aber dies hängt auch davon ab was für eine Person sie sind (Dispositionen).
+
+![Affective Events Theory]()
+
+Heute werden Forschungen mit der Yale Centre for Emotional Intelligence durchgeführt, welche Emotional Revolution in the Workplace heissen. Man will herausfinden, je nachdem welche Emotion man bei der Arbeit verspüren will, dass es verschiedene bessere oder weniger gute Arbeitsanpassungen dazu gibt.
+
+#### 3.2.2 Job Involvment und organisationales Commitment
+
+![Job Involvment]()
+
+#### 3.2.3 Mitarbeiterengagement
+
+Manager sind bestrebt, dass ihre Mitarbeiter zufrieden, engagiert und begeistert an ihre Arbeit herangehen: Dieses Konzept nennt sich Mitarbeiterengagement.
+
+- Höhere Wahrscheinlichkeit, dass Höchstleistungen erbracht wird
+- Geringere Fluktuation
+
+#### 3.2.4 Einstellungen und Konsequenz
+
+Menschen versuchen im allgemeinen, verschiedene Meinungen zu harmonisieren und auch ihre Einstellungen und Handlungen miteinander zu vereinbaren, um rational und Konsequenz zu wirken. Gemäss der Selbstwahrnehmungstheorie von Daryl Bem (1972) kennen wir unter bestimmten Umständen unsere Einstellung nicht, bis wir sehen, wie wir uns verhalten. Man beobachtet sich dann bei dem was man tut. Manchmal ist die Einstellung auf System 1 und so muss man sie ausleben um sie auf System 2 analysieren zu können.
+
+#### 3.2.5 Kognitive Dissonanztheorie
+
+Wenn wir mit Informationen konfrontiert werden, die ein zu unserer Einstellung inkonsistentes Verhalten implizieren, erleben wir grosses Unbehagen. Dieses Gefühl wird als kognitive Dissonanz bezeichnet.
+Es bestehen grundsätzlich drei Methoden, um kognitive Dissonanz zu reduzieren:
+
+- Verhaltensänderung, um das Verhalten in Einklang mit der dissonanten Einstellung zu
+  bringen.
+- Änderung unserer dissonanten Einstellung, um unser Verhalten zu rechtfertigen.
+- Ergänzung neuer Kognitionen, um unser Verhalten zu rechtfertigen.
+  Kognitive Dissonanz beschreibt die fehlende Kompatibilität oder Inkonsistenz zwischen Haltungen und zwischen Verhaltensweisen und Haltungen. Die Unstimmigkeit wird als unangenehm empfunden, wo man stets versucht diese abzubauen und die Dissonanz zu vermindern. Man unterscheidet durch 3 Punkte wie sehr man Dissonanzen versucht zu vermindern:
+
+1. Bedeutung der Faktoren, welche die Dissonanz auslösen
+2. Ausmass an Einflussnahme, dass ein Mensch nach eigener Überzeugung auf diese Faktoren
+   hat
+3. Vorzüge, die die Dissonanz eventuell mitbringen kann
+
+#### 3.2.6 Mitarbeiterbefragung
+
+Durch Mitarbeiterbefragungen kann ein Manager wertvolle Informationen erhalten. Es werden Durchschnittswerte von verschiedenen Arbeitsgruppen und Abteilungen ermittelt. So kriegen Manager, welche es regelmässig machen einen wertvollen Einblick in die Wahrnehmungen der Mitarbeiter bei der Arbeit. So können Massnahmen und Praktiken für einen Manager und Mitarbeiter völlig verschieden sich anfühlen. Diese Befragungen können potentielle Probleme aufleuchten, so dass man früh genug handeln kann und kein Schaden der Organisation zugetan werden kann.
+
+#### 3.2.7 Auswirkungen für Manager
+
+Manager sollten sich immer für die Meinungen und Haltungen der Mitarbeiter interessieren. Zufriedene Mitarbeiter leisten auch bessere Leistung. Der Manager sollte wissen, dass Mitarbeiter versuchen Dissonanzen zu reduzieren. Wenn ein Mitarbeiter etwas machen muss, was bei ihm zu Dissonanz führt, dann sollte der Manger bedenken, dass der Mitarbeiter die Dissonanz beseitigen wird. Der Druck die Dissonanz auszugleichen sinkt, wenn Vorteile oder Belohnungen gross genug sind.
+
+### 3.3 Persönlichkeit
+
+Die Persönlichkeit ist eine einzigartige Kombination aus emotionalen und gedanklichen Mustern sowie Verhaltensmustern, die bestimmen, wie ein Mensch auf Situationen reagiert und mit anderen Menschen interagiert.
+
+Typische Begriffe, um Persönlichkeitseigenschaften zu beschreiben: • Ruhig
+
+- Passiv
+- Laut
+- Aggressiv
+- Ehrgeizig
+- Gesellig
+- Fleissig
+- Zuverlässig
+
+Es gibt somit 3 bekannte Modelle um die Persönlichkeit zu klassifizieren:
+
+- MBTI (Myer-Briggs Type Indicator)
+- Hollands Persönlichkeits-Tätigkeits Modell
+- Big Five – 5 Faktoren Persönlichkeits-Tätigkeits Modell
+
+### 3.3.1 MBTI
+
+- 100 Fragen, wie wich in bestimmten Situationen fühlt und verhält
+- 4 x 4 = 16 Personality Types
+
+![MBTI]()
+
+Nutzen
+
+1. Selbstreflektion
+   Probleme
+1. Wenig Präzision (zwei Präferenzen mit entweder-oder Logik) à gibt auch dazwischen Typen
+1. Niedrige Reliabilität à wenn mehrmals gemacht, dann vielleicht andere Lösung
+1. Keine Beziehung zur Arbeitsleistung
+
+#### 3.3.2 Das Big-Five-Modell
+Es hat sich gezeigt, dass es in den letzten Jahren fünf grundlegende Persönlichkeitsdimensionen gibt:
+| Extraversion | Ausmass in dem eine Person gesellig, gesprächig, selbstsicher und sicher in Beziehung zu anderen Menschen ist |
+| Verträglichkeit | Ausmass an gutem Willen, Kooperation und Vertrauen zu anderen |
+| Gewissenhaftigkeit | Ausmass an Verlässligkeit, Verantwortung, Konsequenz und Zielorientiertheit |
+| Emotionale Stabilität | Ausmass an Ruhe, innerer Sicherheit (positiv), Nervosität, Depression oder innerer Unsicherheit (negativ) |
+| Offenheit für neue Erfahrungen | Ausmass an Interessen und Vorstellungskraft, Faszination von Neuem, Kunstsinn und Intelligenz |
+
+Forschungen zeigen, dass es auch dazwischen und der Arbeitsleistung eine Verbindung gibt. Jedoch sind diese nicht die einzigen Eigenschaften, welche die Persönlichkeit eines Menschen beschreiben. Fünf weitere lassen Vorhersagen zu Verhalten innerhalb Organisation sagen:
+
+| Locus of Control | Interner Locus of Control: Glaube, sein eigenes Schicksal zu kontrollieren Externer Locus of Control: Glaube, sein Leben würde von externen Kräften gesteuert |
+| Machiavellismus | Gradmesser für Pragmatismus, emotionale Distanz und Überzeugung, dass Zweck die Mittel heiligt |
+| Selbstwertgefühl | Der Glaube, man besässe alle nötigen Fähigkeiten, um erfolgreich zu arbeiten |
+| Self-monotoring | Fähigkeit, sein Verhalten externen, situationsabhängigen Faktoren anzupassen |
+| Risikobereitschaft | Risikofreude, wirkt sich darauf aus, wie viel Zeit und Infos man benötigt um Entscheidungen zu treffen |
+| Typ A Persönlichkeit | Strebt beständig danach, immer mehr in immer weniger Zeit zu erreichen. Typ B eher nicht unter Druck und kann ohne Schuldgefühle entspannen |
+| Proaktive Persöhnlichkeit | Zeigt Initiative, wird aktiv, setzt Aktivitäten fort, bis sich ein sinnvoller Wandel vollzieht |
+| Belastbakeit | Fähigkeit, Probleme zu überwinden und sie in Chancen umzuwandeln |
+
+Nutzen
+
+1. Selbstreflektion
+2. Präzise
+3. Reliable
+4. Wissenschaftlich fundiert
+5. Beziehung zur Arbeitsleistung vorhanden
+   Probleme
+6. Einige Charakterzüge werden durch das Modell nicht abgebildet.
+   Relevanz
+   Forschungsergebnisse:
+
+- Gewissenhaftigkeit begünstigt Arbeitsleistung und schulische Leistungen.
+- Ergebnisse zu den anderen Dimensionen sind abhängig von Situation und Berufsgruppe,
+  z.B.: Extraversion: Hohe Leistung, wenn soziale Interaktion wichtig ist (Manager, Verkaufsmitarbeiter)
+  -> Proaktive Mitarbeiter sind erfolgreich mit einem introvertierten Manager
+
+#### 3.3.3 Persönlichkeitstypen in verschiedenen Kulturen
+
+Die Big-Five Persönlichkeitsmerkmale tauchen in fast allen kulturübergreifenden Studien auf. Unterschiede gibt es vor allem in der Bedeutung der einzelnen Dimensionen und der Selbstwahrnehmung:
+
+- Industrieländer zeigen viele Übereinstimmung: in der EU sowie den USA sagt der Faktor Gewissenhaftigkeit in allen Berufsgruppen und Berufsfeldern zuverlässig die Arbeitsleistung vorher
+- In den USA und Kanada ist ein interner Locus of Control weiter ausgeprägt als z.B. in Saudi Arabien oder dem Iran
+- Eigenwahrnehmung und Realität unterscheiden sich manchmal: Die Schweizer halten sich für so gewissenhaft wie keine andere Nation und gleichzeitig für introvertiert und neuen Erfahrungen gegenüber skeptisch. Ein signifikanter Zusammenhang zwischen diesem behaupteten Nationalcharakter und den tatsächlich Charaktereigenschaften der Schweizer liess sich aber nicht feststellen.
+
+#### 3.3.4 Persönlichkeit – Wie wird sie gemessen?
+
+Befragung: Selbsteinschätzung
+
+- Am häufigsten
+- Fehleranfällig:
+  - Stimmungseinfluss (besonders MBTI)
+  - Soziale Erwünschtheit / Impressionsmanagement
+    Befragung: Beobachtereinschätzung
+- Unabhängige Bewertung (Assessmentcenter)
+- Kann akkurater sein, hängt aber von einer ausreichend zuverlässigen Beobachtung ab (Beobachtungsdauer ist wichtig)
+  - Je mehr gemacht, desto besser
+- Idealerweise von mehreren Personen durchgeführt
+  Digital Footprint
+- Computereinschätzungen von Persönlichkeit, allein basierend auf den Facebook Likes einer Person
+  - Sind akkurater als die Einschätzungen anderer Menscheno Haben eine höhere externe Validität als die Einschätzung anderer Menschen
+  - Machen bessere Vorhersagen bezüglich Lebensentwicklungen
+
+#### 3.3.5 Emotionen und emotionale Intelligenz
+
+Emotionen sind intensive Gefühle, welche sich auf Personen oder Sachverhalte richten können. Emotionen sind objekt-spezifisch: Emotionen sind Reaktionen auf ein Objekt. Es geht jeder Emotion ein Ereignis vor und so unterscheidet sich aber das Emotionsempfinden und der Ausdruck, da nicht das eine zum anderen führen muss.
+Die zentralen Emotionen, welche es gibt sind:
+
+- Ärger/Wut
+- Angst/Furcht
+- Ekel/Abscheu
+- Überraschung
+- Freude
+- Trauer
+
+Menschen reagieren unterschiedlich auf identische emotionale Ereignisse (Objekte):
+
+- Die Persönlichkeit der Menschen hat Einfluss auf ihre Reaktion.
+- Menschen drücken ihre Gefühle unterschiedlich aus.
+
+Einfluss von Emotionen auf die Arbeit
+
+- Arbeitsleistung
+- Kreativität
+- Abwesenheit
+- Motivation
+- Effiziente Zusammenarbeit
+- Beziehungsqualität
+- Effektivität der Führung
+- Kundenzufriedenheit
+
+Emotionale Intelligenz (EQ) ist die Fähigkeit emotionale Hinweise und Informationen wahrzunehmen und zu verwerten.
+
+1. Emotionen wahrnehmen: Fähigkeit Gefühle von sich selbst und anderen wahrzunehmen
+2. Emotionen zum Denken nutzen: Fähigkeit, Gefühle zu nutzen, dass die Denkprozesse
+   unterstützen
+3. Emotionen verstehen: Fähigkeiten, Gefühle auszudrücken zu können und Regelmässigkeiten
+   bei Gefühlen zu erkennen
+4. Emotionen regulieren: Fähigkeit, Gefühle von sich selbst und anderen beeinflussen zu
+   können
+
+Es zeigt sich aber, dass sich emotionale Intelligenz auf allen Ebenen positiv zur Arbeitsleistung verhält. Es ist jedoch ein kontroverses Thema, welches lange nicht als seriös erachtet wurde in OB. Es wurde damals von den zwei Autoren in einem kleinen Magazin veröffentlich, welches niemand las. Dies weil bis dort man es eigentlich Emotionen nur als Störfaktoren angesehen hat. Dann kam Goleman, welcher die beiden an eine Konferenz einladet und schlussendlich mit ihren Forschungen ein Buch veröffentlichte, welches sehr bekannt wurde. Voraussichtlich wird im 21 Jhrt. die Aufgabe sein weiter an den Emotionen zu forschen und sie einzubinden, da sie auch wichtig sind, da wenn jemand den gleichen IQ hat, dann wählt man schlussendlich die Person mit einem höhere EQ.
+
+#### 3.3.6 Auswirkungen für Manager
+
+Über 62% der Unternehmen in der USA brauchen solche Persönlichkeitstests.
+Hollands Persönlichkeits-Tätigkeit- Modell
+Holland bestimmte sechs grundlegende Persönlichkeitstypen: die Arbeitszufriedenheit eines Mitarbeiters und die Wahrscheinlichkeit, dass er der Firma treu bleiben wird, hängt davon ab, wie gut sein Arbeitsumfeld zu seiner Persönlichkeit passt.
+
+Kernpunkte der Theorie:
+
+- Menschen unterscheiden sich in ihrer Persönlichkeit
+- Arbeitsplätze unterscheiden sich hinsichtlich der Anforderungen
+- Mitarbeiter, deren Arbeitsplatz mit ihrer Persönlichkeit kompatibel ist, sind meist zufriedener
+
+Persönlichkeit: Was ist der «Fit»?
+Person-Job Fit
+
+- Persönlichkeit eines Individuums passt zu seinem oder ihrem Job
+  Person-Organization Fit
+- Persönlichkeit eines Individuums passt zu der Organisation, für die er oder sie arbeitet
+
+### 3.4 Wahrnehmung
+
+Wahrnehmung ist der Prozess, der sensorische Eindrücke zur Sinngebung der Umwelt organisiert und interpretiert. Also alles was von aussen einfliesst versucht das Gehirn daraus Sinn zu machen. Die Problematik dabei ist, dass der Wahrnehmungsprozess fehleranfällig ist, da wir nicht alles gleich wahrnehmen. Wir alle interpretieren etwas, was unsere Realität nachher entspricht.
+
+#### 3.4.1 Faktoren, die die Wahrnehmung beeinflussen
+
+Es gibt aber Faktoren, welche unsere Wahrnehmung formen und auch verzerren. So können Menschen bewusst nicht mehr als 7 plus/minus 2 Informationseinheiten gleichzeitig verarbeiten. Einzelne Informationseinheiten sind schwer zu merken, jedoch wenn man daraus Cluster macht kann man mehr Informationseinheiten aufnehmen. Das Gehirn ist in der Lage Informationen auszusortieren, wie man auch beim Gorilla Beispiel sieht. Auch beim Cocktail Party Effekt sieht man, dass die Informationen auf unterbewusster ebene verarbeitet werden. So verarbeitet unser System 1 alles was wir hören an einer Party und schafft es mühelos Assoziationen zu finden. Wenn eine Person in einer anderen Gruppe aber dein Name sagt, dann hörst du diesen. Dies zeigt das System 1 alles aufnimmt und dann sobald etwas relevantes aufkommt, wird das System 2 darauf aufmerksam gemacht.
+**Einflussfaktoren auf Wahrnehmung**:
+
+- Wahrnehmende Person
+- Wahrgenommes Ziel
+- Situation während des Wahrnehmungsprozesses
+
+**Implikation:**
+Für unser Verhalten ist die Welt wie wir sie wahrnehmen entscheidend, nicht die Welt wie sie wirklich ist.
+
+#### 3.4.2 Attributionstheorie
+
+Bei der Attributionstheorie wird gezeigt, wie man Menschen beurteilt, je nachdem welche Bedeutung einem bestimmte Verhalten beigemessen wird. Wir versuchen immer zu bestimmen, ob das Verhalten intern oder extern verursacht wird. Man unterscheidet 3 Arten der Beobachtung:
+
+- Unverwechselbarkeit à Verhält sich gleich in ähnlichen Situationen?
+- Konsens à Verhält sich jeder so, der in eine ähnliche Situation geratet?
+- Konsistenz à Bei gleichem Verhalten regelmässig so?
+
+![Attributionstheorie]()
+
+**Der fundamentale Zuordnungsfehler**
+Wenn wir versuchen zu erklären, was das Verhalten von Menschen verursacht, können wir eine von zwei Zuschreibungen vornehmen:
+
+- Eine interne, dispositionale Attribution
+- Eine externe, situative Attribution
+  Obwohl prinzipiell immer beide Attributionen möglich sind, stellte Heider (1958) fest, dass wir dazu neigen, die Ursachen für das Verhalten einer Person als in dieser Person ansässig zu betrachten (interne Attribution). Die Annahme ist, dass Menschen das tun, was sie tun, wegen der Art von Menschen, die sie sind, nicht wegen der Situation, in der sie sich befinden. So wird der Einfluss der Person systematisch überschätzt und der Einfluss der Situation systematisch unterschätzt. Das ist der fundamentale Zuordnungsfehler (“fundamental attribution error”).
+
+**Die Eigennützige Verzerrung**
+
+- Wir neigen dazu, das Verhalten anderer Menschen als dispositionsbedingt, unser eigenes Verhalten aber als situationsbedingt zu betrachten.
+- Der Effekt entsteht, weil sich Wahrnehmungsstärke und Informationsverfügbarkeit für uns gegenüber dem Betrachter unterscheiden. Wir sehen unser eigenes Verhalten nicht.
+- Gibt es Unterschiede zwischen verschiedenen Situationen? Ja, die gibt es: Individuen schreiben Erfolg eher intern und Misserfolg eher extern zu - das nennt man eigennützige Verzerrung.
+
+#### 3.4.3 Methoden zur schnellen Beurteilung
+
+| Stereotypen | Beurteilung einer Person auf der Basis der eigenen Wahrnehmung einer Gruppe. der dieser Person gehört|
+| Angenommen Ähnlichkeiten | Die Annahme, dass andere Menschen genau sind wie wir selbst. |
+| Halo-Effekt | Ein allgemeiner, übergreifender Eindruck einer Person, der auf der Beobachtung einer einzelnen Eigenschaft beruht |
+
+Es gibt noch viele andere Heuristiken zur schnellen Beurteilung:
+
+- **Bestätigungsfehler (confirmation bias)**: Menschen neigen dazu, nach Beweisen zu suchen, die ihre Ansicht bestätigen, und nicht nach Beweisen, die ihre Ansicht in Frage stellen.
+- **Verfügbarkeitsfehler (availability bias)**: Menschen neigen dazu, ein Urteil aufgrund dessen, wie leicht es ihnen in den Sinn kommt, zu fällen.
+- **Affektheuristik (affect heuristic)**: Menschen neigen dazu, für Optionen, die sie mögen, Risiken zu minimieren und den Nutzen zu maximieren, und das Gegenteil für Optionen zu tun, die sie nicht mögen.
+- **Besitztumseffekt (endowment effect)**: Menschen neigen dazu, den Dingen mehr Wert beizumessen, nur weil sie sie besitzen.
+- **Rückschaufehler (hindsight bias)**: Menschen neigen dazu, zu überschätzen, inwieweit sie ein Ergebnis vorhersehen gekonnt haben, nachdem sie über das Ergebnis Bescheid wissen.
+
+#### 3.4.4 Auswirkung auf die Arbeit von Managern
+
+Manager müssen realisieren, dass Mitarbeiter auf Wahrnehmung und nicht Realität reagieren. So kann es zu Verzerrungen kommen
+
+### 3.5 Lernen
+
+Lernen ist eine relativ dauerhafte Verhaltensänderung aufgrund einer Erfahrung.
+#### 3.5.1 Operante Konditionierung
+Menschen erlernen bestimmte Verhaltensweisen, um etwas zu erlangen, das sie gern möchten oder um etwas zu vermeiden. Operantes Verhalten ist freiwilliges oder erlerntes Verhalten also kein reflexives. Die Tendenz es zu wiederholen wird durch positive Verstärkung oder negative (fehlende) beeinflusst. So wenn ein Verhalten nicht positiv verstärkt wird, so sinkt die Wahrscheinlichkeit, dass es wiederholt wird.
+
+#### 3.5.2 Soziales Lernen
+
+Kurz: Lernen kann durch Beobachten erfolgen Vier Phasen:
+
+- Aufmerksamkeitsprozesse
+- Behaltensprozess
+- Motorische Reproduktionsprozesse
+  - Übungsphase aber nicht nicht im Alltag integriert
+- Motivationsprozesse
+  Das Erlernen einer Verhaltensweise heisst aber noch lange nicht, dass es auch angewendet wird.
+
+#### 3.5.3 Verhaltensformung: ein Management-Instrument
+
+Viele versuchen meistens ihre Mitarbeiter zu formen, indem sie deren Lernprozesse durch Verstärkung oder fehlende Verstärkung steuern. Dies wird Verhaltensformung genannt. Positive und negative Verstärkung lösen einen Lernprozess aus, dass sie gewünschtes Verhalten verstärken und die Wahrscheinlichkeit auf eine Wiederholung erhöhen. Die Bestrafung und Auslöschung führen zu einem Lerneffekt, doch sie schwächen unerwünschtes Verhalten und senken dessen Wahrscheinlichkeit.
+
+### 3.6 Aktuelle Themen organisationalen Verhaltens
+
+#### 3.6.1 Management von Unterschieden zwischen den Generationen
+
+Generation Y sind solche die jetzt im Arbeitsleben eingetreten sind und zwischen 1982-1997 geboren sind. Gen Y wird als eine Herausforderung gesehen, wenn es um Themen wie Erscheinungsbild, Technologie und Management-Stil geht. Baby Boomers beschweren sich darüber, dass sie sich nicht auf eine Aufgabe konzentrieren können. Im Hinblick auf Gen Y braucht es flexible und offen für Neues Manager. Die Gen Y hat viel zu bieten: Fachwisse, gute Fähigkeiten und grosse Begeisterungsfähigkeit.
+
+#### 3.6.2 Management von negativem Verhalten am Arbeitsplatz
+
+Bei negativem Verhalten ist es wichtig eine sorgfältige Beobachtung der Mitarbeiter zu vollziehen und auch eine unmittelbare und entschlossene Reaktion auf negatives Verhalten zu zeigen.
+
+### 3.7 Zusammenfassung
+
+- Das Verhalten von Menschen beeinflusst massgeblich den **Erfolg von Organisationen.**
+- Wir können das Verhalten anderer immer mit einer **internen** oder einer **externen Zuordnung** versuchen zu erklären.
+- Menschen neigen dazu, wenn es um das Verhalten anderer geht, den fundamentalen Zuordnungsfehler zu machen und wenn es um sie selbst geht, eine eigennützige Verzerrung zu unternehmen.
+- Arbeitszufriedenheit führt zu mehr **Leistung**.
+- Menschen passen ihre Einstellungen oder Verhaltensweisen an, um **kognitive Dissonanzen** zu vermeiden.
+- **Job Involvement, Organisationales Commitment** und wahrgenommene **organisationale**
+- **Unterstützung** sind weitere relevante Einstellungen im Arbeitskontext.
