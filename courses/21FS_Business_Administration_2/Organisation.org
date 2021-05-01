@@ -1,4 +1,4 @@
-#+title Organisation
+#+TITLE Organisation
 
 * 1. Begriff und Aufgabe von Organisationen
 ** 1.1 Begrifflichkeiten
@@ -35,14 +35,14 @@ Es ist nicht mehr nur organisationale Strukturierung, sondern betrachtet jeglich
 ** 1.4 Basisaufgabe der Organisationsgestaltung
 Hier ist die Hauptaufgabe die Koordination der zu erledigenden Aufgaben.
 
-: Differenzierung (Arbeitsteilung) :
-: Zerlegung von Aufgaben und Verteilung von Teilaufgaben :
+: Differenzierung (Arbeitsteilung)
+: Zerlegung von Aufgaben und Verteilung von Teilaufgaben
 
 Adam Smith ist ein Beispiel für eine erfolgreiche Arbeitsteilung bei der Stecknadelproduktion, wo er durch die Zerlegung der Aufgabe in 10 Teilaufgaben vergrössert und somit den Output um das 240- fache. Auch hier das Beispiel der Wilson Factory, welche American Footballs produziert und so sind die Aufgaben so verteilt. Dass man schneller arbeiten kann.
 
 Durch diese Differenzierung kommt aber auch die Integration dazu zwangsläufig, da die Teilverrichtungen aufeinander abgestimmt werden müssen.
 
-: Integration (Arbeitsvereinigung) :
-: Abstimmen der Aufgabenerfüllung zwischen den verschiedenen Arbeitsträger :
+: Integration (Arbeitsvereinigung)
+: Abstimmen der Aufgabenerfüllung zwischen den verschiedenen Arbeitsträger
 
 *** 1.4.1 Dualproblem der Organisationsgestaltung
