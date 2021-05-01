@@ -1,0 +1,48 @@
+#+title Organisation
+
+* 1. Begriff und Aufgabe von Organisationen
+** 1.1 Begrifflichkeiten
+Man unterscheidet im Begriff der Organisation zwei verschiedene Begriffe:
+- Instrumenteller: Organisation als Instrument oder Mittel zur Erreichung von Zielen
+- Institutioneller: Organisation als Institution beziehungsweise solziales System mit bestimmten Eigenschaften
+** 1.2 Instrumentaller Organisationsbegriff
+Der *funktionale* Begriff beschreibt die Tätigkeit des Organisierens. Hier wird die Organisation als reines Umsetzungselement verstanden, welches dafür sorgt, dass Planung tatsächlich realisiert wird.
+• Gutenberg
+
+Beim *konfigurativen* Begriff wird nicht auf die Tätigkeit, sondern auf das Ergebnis des Organisierens geschaut, also der Struktur des Unternehmens. Es ist eher eine auf Dauer ausgerichtete Strukturierung von Arbeitsprozessen damit gemeint.
+• Erich Kosiol
+
+** 1.3 Institutioneller Organisationsbegriff
+Dieser ist umfassender als letzterer und wird als gesamtes System (Institution) und nicht mehr nur als Ziel oder Aufgabe der Organisation aufgefasst.
+
+Spezifische Merkmale:
+• *Spezifische Zweckorientierung*:
+  - Auf spezifische Zwecke ausgerichtet
+  - Meistens mehrere, einander partiell widersprechende Ziele (z.B. Liquidität, Rentabilität etc.)
+• *Geregelte Arbeitsteilung*:
+  - Nach rationalen Mustern aufgeteilt und verknüpft o Richten Handlungen nach rationalen Mustern so aus, dass für andere Mitglieder vorhersehbar werden und als Handlungsorientierung hingezogen werden können
+  - Meist im Arbeitsvertrag abgesichert – Einhaltung der Erwartungen und Regeln
+• *Beständige Grenzen*:
+  - Zwischen Aussen- und Innenwelt unterscheiden können
+  - Von Umwelt abgrenzen
+  - Grenzen können aktiv gestaltet werden, sind stabil
+  - Organisation nur Bestand, solange Grenze zur Umwelt erhalten bleibt
+    
+Der Begriff beinhaltet aber nicht nur die formale Ordnung, sondern auch soziale Gebilde, geplante Ordnung und ungeplante Prozesse, Funktionen, Dysfunktionen organisierter Abläufe, sowie Entstehung und Veränderungen von Strukturen. Die informelle Organisation in Form von Organisationskultur und persönlichen Netzwerken der Organisationsmitglieder, welche früher als Störfaktor der rationalen Planstruktur galten, zählen dazu.
+
+Es ist nicht mehr nur organisationale Strukturierung, sondern betrachtet jegliches in Praxis (empirisch) beobachtbares Verhalten (soziales Gebilde). So umfasst es auch die unsichtbaren Regeln, ohne offiziellen Charakter.
+
+** 1.4 Basisaufgabe der Organisationsgestaltung
+Hier ist die Hauptaufgabe die Koordination der zu erledigenden Aufgaben.
+
+: Differenzierung (Arbeitsteilung) :
+: Zerlegung von Aufgaben und Verteilung von Teilaufgaben :
+
+Adam Smith ist ein Beispiel für eine erfolgreiche Arbeitsteilung bei der Stecknadelproduktion, wo er durch die Zerlegung der Aufgabe in 10 Teilaufgaben vergrössert und somit den Output um das 240- fache. Auch hier das Beispiel der Wilson Factory, welche American Footballs produziert und so sind die Aufgaben so verteilt. Dass man schneller arbeiten kann.
+
+Durch diese Differenzierung kommt aber auch die Integration dazu zwangsläufig, da die Teilverrichtungen aufeinander abgestimmt werden müssen.
+
+: Integration (Arbeitsvereinigung) :
+: Abstimmen der Aufgabenerfüllung zwischen den verschiedenen Arbeitsträger :
+
+*** 1.4.1 Dualproblem der Organisationsgestaltung
