@@ -1,0 +1,755 @@
+#+TITLE: Stategisches Management
+
+* 1. Strategie als Wettbewerbsstrategie
+
+Man interpretiert den Strategiebegriff so, dass Erfolg und Misserfolg eines Unternehmens anhand vom Wettbewerb sich entscheiden. Unternehmen streben dazu sich günstig zu platzieren und somiteine gewinnbringende Stellung im Wettbewerb zu erreichen, was heisst, dass sie sich gegen Wettbewerbskräfte verteidigen können. Dies passiert alles in der Branche, wo solche mit ähnlichen oder gleichen Produkten, um die Gunst der Kunden werben. So braucht man die Wettbewerbsstrategie, um eine gewinnbringende Stellung im Markt zu erreichen und sich gegenüber Wettbewerbskräften zu verteidigen. Hier kommt es drauf an, ob man in einer attraktiven Branche befindet und wie man sich in der Branche platziert.
+Bsp.: 2002 Finanzbranche sehr attraktive Branche und nach 2007 nicht mehr, Porsche 2013 20% verdient und an Renault verloren.
+
+Profitabilität eines Unternehmens
+
+- Brancheneffekt
+  - Verschiedene Branchen sind unterschiedlich profitabel
+- Positionierungseffekt
+  - Verschiedene Unternehmen in einer Branche sind unterschiedlich profitabel
+
+*Fazit*
+Zentrale Aufgaben der Wahl der Wettbewerbsstrategie
+
+- Branchenwahl
+  - Selektiere geziehlt eine attraktive Branche
+- Positionierung für Wettbewerbsvorteile
+  - Erarbeite die eine Stellung in der Branche, welche Schutz vor Wettbewerbskräften bietet
+- Verteidigung von Wettbewerbsvorteilen
+  - Gründe diese Stellung auf Fähigkeiten und Ressourcen, welche nachhaltig schtzbar sind
+
+* 2 Branchenwahl/Beurteilung der Brancheneffekte
+
+Hier ist es wichtig, dass man sich immer in eine Wettbewerbsparanoid versetzten soll, wenn man Porter verstehen will. Man analysiert die Attraktivität/Probabilität von Branchen mit "industry analysis frameworks", welches eines der bekanntesten das Modell der fünf Wettbewerbskräfte von Porter (1980) ist. Zudem will man Brancheneffekte aufdecken. Die Frage ist hier immer, ob die Kraft ausreichend ausgeprägt ist um den Gewinn der Branche zu eliminieren oder beeinträchtigen. Nach Porter sollte man immer Wettbewerbsparanoia haben und sagen, dass die anderen alle hungrige Wölfe sind.
+
+** 2.1 Interne Rivalität
+
+Der Wettbewerb in einer Branche erfolgt über die Preise und so senkt ein Unternehmen ihre Preise, wenn sie dadurch mehr Marktanteile gewinnen können also ist die Hoffnung, dass man mehr Konsumenten anzieht, denen man mehr Stücke verkaufen kann. Ein starker Preiswettbewerb aber macht eine Branche unattraktiv, da es die Notwendigkeit beinhaltet die Preise bis auf die Kosten zu senken. Ziel jedes Unternehmen ist es Marktanteile zu gewinnen und den Gewinn zu maximieren.
+
+Spielraum für Preissenkungen
+G = pQ - kQ
+G = (p-k)Q
+Also kann man die Preise nur bis zu den Stückkosten senken, also p=k, ab diesem Punkt macht das Unternehmen keine Gewinne mehr.
+
+*** 2.1.1 Branchen mit vielen Anbietern
+
+Die Preisangriffe eines Unternehmens trifft viele Konkurrenten und stiehlt jedem nur geringe Marktanteile also nur viele kleine Anteile. Sie erwarten auch keine heftigen Reaktionen, wobei sich ein Angriff lohnt, jedoch jedes Mal wenn die Preise über die Kosten steigen, führen die Preisangriffe wieder dazu das sie sinken. Jedoch wenn es ein enges Oligopol gibt dann verlieren sie Marktanteile und die anderen schlagen zurück und alle haben schlussendlich gleich viel Marktanteile wie vorher und sie haben sich einfach die Preise kaputt gemacht.
+
+*** 2.1.2 Schrumpfende oder stagnierende Branche
+
+**Ursache**
+
+- Konjunkturzyklus (-> Aufschwung -> Boom -> Abschwung -> Rezession)
+- Marktlebenszyklus (Produktlebenszyklus) (-> Entstehung -> Wachstum -> Reife -> Abschwung)
+
+Die Anbieter, welche die höchsten Preise haben, verlieren als erstes Marktanteile und haben dann den Anreiz mit tieferen Preisen zu reagieren, um seine Marktanteile zu retten. Nur so kann er sich vor der Verdrängung im Markt schützen.
+
+*** 2.1.3 Heterogene Kosten
+
+**Ursache**
+
+- Economics of Scale (Grössenvorteile) -> Q/Periode
+  - Unteilbare Inputfaktoren
+  - Verteilung der Fixkosten
+  - Technologiewechsel mit anderen Kostenstrukturen
+  - Produktivitätssteigerung von variablen Inputs
+- Economics of Scope (Verbundvorteile)
+  - Gemeinsame Produktion von verschiedenen Güter
+- Erfahrungskurveneffekte -> Q(kum)
+
+Hier haben Anbieter mit Kostenvorteilen grössere Preissenkungsspielräume, welche sie ausnutzen können, um grossen Marktanteilsgewinnen zu kommen. Dadurch, dass sie die Preise unter den Kosten der Konkurrenten ansetzen, führt das dazu, dass sie Konkurrenten aus dem Markt treiben.
+Bei Homogenen Kosten, also gleichen DK, machen Preisangriffe nicht Sinn, da die Marktanteile unverändert bleiben würden und somit hat man eine tiefe interne Rivalität. Jedoch bei heterogenen Kosten hat B aufgrund Erfahrungskurveneffekten ein tiefere DK und somit können sie den Preis reduzieren und somit A aus dem Markt drängen. So hoffen sie, dass sie mit dem Preisangriff die entsprechende Menge von A zu B geht. Der Mengengewinn (Gewinn an Q) soll den Margenverlust überkompensieren.
+
+![Interne Rivalität]()
+
+**Fazit**
+Falls Kosten von etablierten Firmen in einer Branche heterogen sind, erwarten wir ceteris paribus einen scharfen Preiswettbewerb, weil Firmen mit tieferen Kosten starke Anreize für Preisangriffe haben!
+
+*** 2.1.4 überkapazitäten
+Wenn man ungenutzte Kapazitäten hat, also überkapazitäten, dann verursacht dies Fixkosten. Somit nehmen diese Unternehmen auch andere Aufträge unter den Vollkosten an. Dies passiert, da solange die variablen Kosten gedeckt werden, jede zusätzliche verkaufte Einheit einen Beitrag zur Deckung der Fixkosten erwirtschaftet. So bietet also die Möglichkeit Marktanteile durch kurzfristige Preissenkungen zu stehlen.
+Bsp.: Swiss Angebote auf NYC billiger als sonst, Hotellerie haben freie Zimmer etc.
+
+*** 2.1.5 Undifferenzierte Produkte
+
+Wichtig ist die Wahrnehmung eines Produktes durch den Konsumenten. Wenn der Konsument den Produkten die gleiche Wertschätzung gibt, dann orientieren sie sich am Preis, da es das Einzige ist, was die Konsumenten zu Kauf zu einem Produkt bewegt und somit der Unternehmung hilft Marktanteile zu gewinnen. So gibt es in solchen Märkten härteren Preiswettbewerb. Einige Unternehmen versuchen sich so zu differenzieren in dem sie Services dazu anbieten etc.
+Bsp.: Beim Strom: Einige versuchen sich zu differenzieren, indem sie sagen sie sind grün
+
+*** 2.1.6 Verzögerte Anpassungsreaktionen der Konkurrenten
+
+*Ursache: "lumpiness of orders"* (Schiff-, Flugzeug- oder Anlagenbau)
+Konkurrenten können erst beim nächsten Grossauftrag auf Preissenkungen reagieren. Es wird ja meistens in grossen Losen verkauft, also nicht oft und auch bei industriellen Zulieferergeschäften werden es nur alle paar Jahre Produkte produziert.
+-> Preissenkungen attraktiv, weil erst später "bestraft" wird
+
+**Ursache: privat verhandelbare Preise (intransparente Preise)**
+Die Preise werden nicht öffentlich ausgezeichnet (wie Tankstellen) und es gibt versteckte Preissenkungen über Extras und Dreingaben^1 und die Konkurrenten können die Preissenkungen nur schwer beobachten.
+-> Preissenkungen attraktiv, da sie gar nicht oder später bestraft werden
+
+So ist je höher die Interaktionsgeschwindigkeit in einem Markt ist, desto unattraktiver ist die
+Preissenkung.
+
+*** 2.1.7 Marktaustrittsbarrieren
+
+**Ursache:** Branchenspezifische Investitionen, welche den Austritt aus der Branche mit hohen Kosten für das Unternehmen belasten
+
+Wenn die Kosten eines Markaustritts die Kosten eines Preiskampfes (Verluste aufgrund nicht kostendeckender Preise) übersteigen, dann stellen sich Unternehmen besser, wenn sie sich im Preiswettbewerb verteidigen und auch die Preise senken, anstatt den Markt ganz zu verlassen. Je höher dieser Umfang von spezialisierten Vermögen, in das eine Unternehmung investiert hat, desto höher ist der Preiswettbewerb.
+Bsp.: Stahlwerk hat man in spezifische Geräte investiert, lohnt sich nicht auszusteigen, jedoch wenn man nur Büro ist hat man nicht so branchenspezifisch investiert und kann leichter raus.
+
+*** 2.1.8 Zusammenfassung
+
+Eine Branche ist unattraktiv, wenn:
+
+- Rivalität hoch ist (viele Wettbewerber)
+- Stagnierender Markt (oder schrumpfende Branche)
+- Heterogene Technologie (unterschiedliche Kostenstrukturen)
+- Ungenutzte Kapazitäten (überkapazitäten)
+- Schlecht differenzierte Produkte (Undifferenzierte Produkte)
+- Verzögerte Anpassungsreaktionen der Konkurrenten
+- Branchenspezifische Investitionen (Marktaustrittsbarrieren)
+
+** 2.2 Gefahr durch Neueintritte
+
+Je höher die Gefahr durch Neueintritte, desto unattraktiver ist eine Branche. Die
+Neueintritte stehlen eigentlich Markteintritte, da die gegebene Marktnachfrage
+mit Neuen geteilt werden muss. Zudem reduzieren sie auch die Konzentration
+in einer Branche was zu einer Verstärkung des Preiswettbewerbs führt. Wie
+gross das Ausmass der Gefahr aber ist, hängt von der Höhe der
+Markteintrittsbarrieren ab.
+
+*** 2.2.1 Economies of Scale (Grössenvorteile)
+
+Kostennachteile habe solche Unternehmen, welche nicht mit der kostenoptimalen Betriebsgrösse (s\*) operieren. So müssen Newcomer sofort hohe Marktanteile haben, da sonst Etablierte Kostenvorteile haben und sie sie somit aus dem Markt drängen können.
+
+Die Stückkosten sinken bis zur kostenoptimalen Betriebsgrösse (s\*). Wenn die Ausstossmenge
+entsprechend stark steigt, dann lohnt sich der Wechsel auf eine neue Technologie, welche bei hohen Ausstossmengen tiefere variable Kosten verursachen. Vielfach gibt es aber Unteilbarkeit, dass bestimmte Zutaten (Produktionsfaktoren, Inputs) man nicht in beliebigen Mengen bekommt, da gibt es Sprünge mit tieferen variablen Kosten und hohen Fixkosten. Die optimale Betriebsgrössen (s\*) ist der Schnittpunkt der DK und GK.
+
+Unterscheidung Eintrittsbarrieren:
+
+- Strukturelle (durch den Markt schon)
+- Strategische (aus Verhalten der Etablierten)
+
+**Aus Übung:**
+Wo die Grenzkostenkurve und die Durchschnittskostenkurve sich trifft befindet sich die kostenoptimale Betriebsgrösse (s\*). Ab diesem Punkt lohnt es sich nicht mehr eine zusätzliche Einheit zu produzieren, da die DK wieder steigen würden. Also solange eine zusätzliche Einheit weniger kostet als meine DK, dann fallen meine DK, jedoch sobald sie mehr kostet, dann steigen die DK wieder.
+
+**** 2.2.1.1 Definition von Economies of Scale
+
+Bei einer Erweiterung von Q, fallen die DK ab aber es gibt einen Punkt (irl: eher Bereich), ab dem es sich nicht mehr lohnt grösser zu werden. So ist s\* eigentlich die kostenoptimale Menge für gegebene Produktionstechnologie (DKmin). Es ist zu beachten, dass man innerhalb einer Branche die gleiche Produktionstechnologie hat und somit eine Branche die gleiche Kostenstruktur hat.
+
+**** 2.2.1.2 Grundlagen zu ökonomischen Kostenkategorien
+
+**Totalkosten: TK (Q)**
+Die Totalkostenfunktion kann unsere Untergrenze sein, welche uns sagt, was unsere minimalen Kosten sind. Natürlich darf die Kurve nicht fallend sein. Aber wenn wir für die gleiche Quantität höhere Kosten anfallen würden dann wäre das auch ineffizient. So lange wir uns aber auf der Kurve befinden, dann sind wir effizient.
+
+Es kann auch zu **Verschiebungen der Kurve** kommen, z.B. wie bei der Migros Self-Checkout wobei sie weniger Personal haben und somit sich die Kosten nach unten verschieben.
+
+Die Kurve kann auch anders aussehen: Hier flacher wie bei z.B. iTunes von Apple, wobei sie hohe Fixkosten am Anfang haben und dann die Kosten für ein weiteres Lied geringer sind.
+
+**Fixkosten: KF**
+
+- Totalbestandteile, unabhängig von der Produktionsmenge
+
+**Variable Kosten: KV (Q)**
+
+- Totalkostenbestandteile, abhängig von Produktionsmenge
+
+**Durchschnittskosten: DK (Q)**
+
+- Teil der Totalkosten, der durchschnittlich auf eine Outputeinheit entfällt
+- DK sind TK dividiert durch Output Menge
+- Entspricht Steigung der Sekante durch den Nullpunkt
+
+  *Zusammenhang von DK und TK*
+  Bemerkung: Hier nehmen wie die idealtypische Kostenfunktion.
+
+  Die DK müssen der Steigung der Sekante entsprechen. So geht man in diesem Beispiel davon aus, dass die Steigung 1 der Funktion bei den TK ist und somit kann man diese bei den Duchschnittskosten übernehmen und das einzeichnen. Wenn man dann einer zweite Linie zieht und diese Steigung tiefer ist, dann nimmt die DK-Funktion ab. So haben wir bei fallenden Duchschnittskosten (DK) Economies of Scale.
+
+  Wenn man einen weiteren Punkt an der Totalkostenfunktion setzen würde, würde man sehen, dass die DK wieder steigen würde. Dieser Punkt ist s*. Dieser Punkt befindet sich dort wo die Sekante zu einer Tangente wird und die Steigung dieser Funktion am Minimum ist.
+
+  Beispiel:
+  Der Abstand zwischen TK und den variablen Kosten ist immer durch die Fixkosten gegeben. Wir sehen, dass die variablen Kosten hier in diesem Fall konstant sind und wir uns aber immer noch bei Economies of Scale befinden, da die DK bei jeder erweiterten Menge sinken. Beim zweiten Beispiel würden auch die Durchschnittskosten der variablen Kosten sinken, denn die Sekantenlogik bleibt hier auch.
+
+**** 2.2.1.3 Ursachen (Gründe) für Economies of Scale
+
+1. *Verteilung der Fixkosten*
+   - Für gewisse Inputfaktoren gibt es eine technische Mindestgrösse
+   - "Short-run" Economics of scale
+     - Ich bewege mich entlang der DK-Kurve
+
+Duch einer Erhöhung von =Q= kann ich meine Fixkosten besser auf einzelne Einheiten aufteilen. Dies gibt mir dann die Möglichkeit meine DK und TK zu reduzieren.
+
+2. *Wechsel auf Technologien mit anderer Kostenstruktur*
+   - "Long-run" Economics of Scale
+   Ich werden mich nicht nur auf der Kurve bewegen, sondern die Kurve wird sich bewegen. Dies passiert, weil der Wechsel auf Technologien beruht und somit sich auch meine Kostenstruktur ändert. Hier im Beispiel fängt die Kurve A bei 0 an, da ich keine zusätzlichen Kosten habe die Zeitung zu verteilen. Sie ist steil, da jede weitere mich mehr Zeit und Aufwand kostet. Bei den DK ist es eine Linie, da sich die Steigung der Sekante nicht verändert. Bei B habe ich Fixkosten und die Kurve flacht ab, da bei jeder zusätzlichen Lieferung mit weniger Aufwand bereitet als vorher. Auch dasselbe mit C.
+   Es lohnt sich erst ab bestimmten Outputbereichen, wenn ich genügend gross bin, auf eine andere Technologie zu wechseln. Sonst kann ich wegen meinen kleineren Outputmengen meine höheren Fixkosten nicht auf die Einheiten auzuteilen.
+
+   3. *Produktivitässteigerung von variablen Inputs*
+      - Variable Inputs wirken duch Produktivitätssteigerungen bei einer Ausdehnung progressiv auf den Output
+
+      Also das heisst, dass man immer effizienter wird. Es gibt zwei Beispiele defür: Teamworking und Mengenrabatt. Teamworking wirkt so, dass jeder Mitarbeiter speziallisieren kann und somit besser wird und mehr produzieren kann. Bei Mengenrabatt kann man sparen.
+
+**** 2.2.1.4 Diseconomies of scale
+
+Es gibt einen Punkt an dem Economies of Scale nicht weiter ausgeschöpft werden können und so ist ein Unternehmen zu gross und die Kosteneffizienz nimmt ab, also man hat wieder steigende DK.
+
+*Ursachenmöglichkeit*
+- Bürokratie (z.B. UZH)
+- «Lohn-Premium» in grossen Unternehmen (z.B. anlocken von Arbeitern durch hohe Löhne aber ihre Arbeit kann irgendwann nicht mehr besser werden)
+- Zu starke «Streuung» von kritischen Ressourcen (z.B. versuchen Mitarbeiter auszunutzen und dann streuen sie sie und dann ist man weniger effizient)
+- «Conflicting Out» (z.B. Vertraulichkeitsprobleme, kann Verlust machen in dem ich Entscheidungen treffe)
+
+**** Implikationen für die Gefahr durch Neueintritte
+
+Durchschnittskosten bestimmten den Stückgewinn der Unternehmen und damit die Wettbewerbsposition. Solange DK durch den Preis mindestens gedeckt werden, kann ein Unternehmen im Wettbewerb bestehen. Also müssen wir einen Stückgewinn von mindestens 0 haben (also es muss die DK decken zu mindestens). Der Preis darf also nicht unter die DK fallen.
+Im Optimum möchten wir dort produzieren, wo die DK minimal sind. So lange aber die Grenzkosten (Kosten einer weiteren Einheit) unterhalb der DK sind, ziehen die tieferen GK die DK herunter. Als Unternehmen soll man also so lange produzieren, weil die Produktion einer weiteren Einheit weniger kostet als die DK, also somit unser DK herunterzieht. Sobald aber die GK über DK sind dann zieht die Produktion einer weiteren Einheit die DK nach oben und somit wollen wir genau dort produzieren, wo =DK = GK (=s*)=.
+
+Ein Etablierter produziert bei =s*= und dann kommt ein Neueintreter und so wird der Etablierte seine Preise senken (P’). So hat er die Gefahr durch Neueintritte gesunken und er kann Neueintreter unterbieten.
+
+Beispiel mit zwei Branchen mit unterschiedlichen
+Produktionstechnologien: Wir haben hier Economies of Scale, da die DK Kurve fallend ist mit steigendem Q/Periode. Wir erkennen hier, dass es zwei verschiedene Produktionstechnologien sind, da sie verschiedene Kostenstrukturen haben. Die Grösse des Kostenvorteils definiert/beeinflusst die Gefahr durch Neueintritte.
+
+*Fazit*
+Falls etablierte Firmen in einer Branche EOS ausschöpfen, erwarten wir ceteris paribus eine reduzierte Gefahr durch Neueintritte, weil Neueintreter zu Beginn kaum konkurrenzfähig sind!
+
+*** 2.2.3 Reputationsempfindliche/markenloyale Konsumenten
+
+*Ursache*: Nicht bei allen Gütern ist es Nachfragern möglich, die Eigenschaften vor dem Kauf zutreffend zu berurteilen.
+Anbieter haben somit eigentlich Anreize viel zu versprechen und sich nicht daran zu halten, woraus eine Qualitätsunsicherheit entsteht. Aber solche, welche ihre Versprechen halten, bauen eine Reputation auf und Etablierte mit Reputation erzielen Qualitätsprämien. Newcomer müssen aber erst eine Reputation aufbauen d.h. hohe Qualität zu vergleichsweisen niedrigen Preisen liefern.
+
+*** 2.2.4 Erfahrungskurveneffekte
+
+*Ursache*: Lerneffekte der einzelnen Mitarbeiter (Zuwachs von Fähigkeiten) und der Organisation (Verbesserung von Prozessen/Routinen) durch wiederholte Erledigung von Aufgaben.
+
+Hier haben sie Kostenvorteile durch die «Akkumulation von Know-How». So sinken die Stückkosten mit der kumulierter Ausbringungsmenge. Hier nimmt man also Qkum, da der Produktionsvorgang ja wiederholt wurde und es aufzeichnet wie viel man bis jetzt üben konnte. Je ausgeprägter, desto grössere Kostenvorteile haben Etablierte und so haben Newcomer fast keine Chance mit dem Erfahrungsvorsprung der Etablierten mitzuhalten. Es wird unterschieden zwischen solchen, welche eher durch Humankapital und solche die durch Sachkapital getrieben werden. Schlussendlich hat man einen hohen relativen Marktanteil und wenn der nicht mehr wächst. Dann ist man die typische Cashcow: Man hat tiefere Kosten als alle anderen und muss nicht mehr investieren.
+
+*Empirie*: "Bei jeder Verdopplung der kumulierten Produktionsmenge sinken die auf die eigenen Wertschöpfung bezogene inflationsbereinigten Stückkosten um einen charakteristischen Prozentsatz"
+
+*Erfahrungskurveneffekte vs. EOS*
+Erfahrungskurveneffekte können unabhängig von EOS austreten und dann sogar wirken.
+
+*Fazit*: Falls sich die etablierten Firmen in einer Branche durch Erfahrungskurveneffekte Kostenvorteile erarbeitet haben, erwarten wir ceteris paribus eine reduzierte Gefahr durch Neueintritte, weil Neueintreter zu Beginn kaum konkurrenzfähig sind!
+
+*** 2.2.5 Staatlicher Schutz
+
+Staatlicher Schutz kann in staatlichen anerkannten Standesvertretungen über die Zulassung neuer Anbieter entscheiden (Handwerksverbönde, Ärzte- oder Rechtsanwaltkammern). Zudem gibt es auch natürliche Monopole, welche verstaatlicht wurden. Es kann auch sein, dass der Staat Konkurrenz in der gleichen Branche verbietet (z.B. PTT lange, E-Werke). Dieses Verbot konnte aber durch die Liberalisierung gelockert werden (z.B. Swisscom letzte Monopol, Post hat noch Monopol bei Briefen bis 50g). Jedoch veranlasst dieser subtile staatliche Schutz, dass einige Gesellschaften bspw. bei den Mindestlöhnen Insolvenz anmelden mussten und einige konnten gar nicht mehr ins Geschäft einsteigen. Etablierte haben da mehr Chancen, da sie Skalen- und Verbundeffekte abschöpfen konnten.
+
+*** 2.2.6 Erwartungen über dem Wettbewerb nach Markeintritt
+
+Jetzt ist das hier eigentlich ein strategische Markteintrittsbarriere und nicht einen strukturelle, da die Unternehmen strategisch die Eintrittsbarrieren in einer Branche erhöhen. Es ist die Frage wie glaubwürdig man mit aggressiven Reaktion drohen kann bzw. ob zu erwarten ist, dass sie aggressive Reaktionen haben werden (commitments).
+
+Bspw.: Überkapazitäten
+- Etablierte können Markt schnell und kostengünstig überfluten
+  - Können auch Nachfrage bedienen
+  - Könne fluten, da sie Überkapazitäten haben
+  - So lange variablen Kosten gedeckt sind plus etwas darauf, dann immer Beitrag zur Deckung von Fixkosten
+Bspw.: Branchenspezifische Investitionen
+- Etablierte können Markt nur zu hohen Kosten verlassen, da branchenspezifischen Investitionen beim Markaustritt versinken
+  - Verteuern den Ausstieg einer Branche und Erhöhung der Verteidigung der Etablierten
+    
+*** 2.2.7 Netzwerkexternalitäten
+
+Netzwerkexternalität: positive Nachfrageexternalität, d.h. für Konsument A entsteht ein Zusatznutzen, wenn Konsument B das gleiche Produkt kauft à Nutzen hängt davon ab wieviel andere das Gleiche haben
+
+Bspw. bei Interaktionsprodukten (E-Mail, Mobilfunk) durch bessere Vernetzbarkeit oder bei komplementären Produkten (PC und Software, DVD-Player und Filme) durch erhöhte Varietät:
+- Die Höhe des Zusatznutzens steigt mit der Zahl der Konsumenten, die das gleiche Produkt gekauft haben (installierte Basis)
+- Die installierte Basis der Etablierten wirkt als Markteintrittsbarriere, weil Newcomer auf Anhieb eine vergleichbare installierte Basis benötigen, um potentiellen Käufern einen vergleichbaren Zusatznutzen zu bieten
+
+Je mehr Personen ein Produkt nachfragen, desto mehr Interaktionsmöglichkeiten gibt es und desto mehr Ergänzungsprodukte werden erstellt. Zusätzliche Nutzer, welche beitreten, erzeugen so einen positiven Effekt. So ist es eine positive Nachfrageexternalität, da ich von ihnen profitiere und sie es nachfragen.
+
+** 2.3 Bedrohung durch Substitute
+
+Substitute: Produkte anderer Branchen, die auf die gleichen Kundenbedürfnisse abzielen (Bsp.: Briefe und Email, Auto und Flugzeug, Netflix und Buch) Komplemente: Produkte, die gemeinsam nachgefragt werden, weil sie ihren Nutzen ergänzen (Bsp.: Drucker und Tinte).
+
+Die Wirkung ist zu vergleichen mit Neueintritten, da Substitute Marktanteile stehlen und somit der Umsatz von Etablierten schrumpft und somit auch die Auslastung und dann kann es weniger auf die Stückkosten verteilt werden. Zudem vermindern die Substitute die Konzentration am Markt und verschärfen somit den Preiswettbewerb.
+
+Ausmass der Bedrohung
+- Verfügbarkeit enger Substitute
+  - Gibt es überhaupt solche die als Ersatz für Produkte in Frage kommen?
+  - In welchem Marktsegment sind Produkte substitutiv?
+- Preis-Leistungs-Verhältnis der Substitute
+  - Auch enge sind keine Bedrohung, wenn Preis prohibitiv3 oder Qualität ungenügend
+
+** 2.4 Macht der Zulieferer
+
+Haben die Zulieferer (Upstream-Unternehmen) Möglichkeiten, die Gewinne der Unternehmen in der betrachteten Branche (Downstream-Unternehmen) abzuschöpfen, bspw. durch hohe Preise, geringe Qualität oder schlechte Lieferkonditionen?
+
+*** 2.4.1 Relative Konzentration auf den benachbarten Produktionsstufen
+
+Relative Konzentration auf Zuliefererstufe ist höher als in benachbarter Branche:
+- Zahl der Upstream Unternehmen kleiner als Abnehmer (relativ höhere Konzentration)
+  - Zulieferer dann mehr Macht
+  - Verbesserte Erfolgsaussichten für kooperative Preissetzung –über Wettbewerbspreis - Kooperativ gesetzte Preis liegt über Wettbewerbspreis
+  - Gewinne Downstream Unternehmen können teilweise abgezogen werden
+  - Schaden zufügen eigentlich so
+Die Beute wandert eigentlich dorthin wo die Konzentration hoch ist.
+
+*** 2.4.2 Einkaufsvolumen der Downstream-Unternehmen
+
+Tendenziell gewähren Zulieferer Grosskunden bessere Preise und besseren Service. Dies liegt daran, weil sie ein grosses Einkaufsvolumen haben und so haben sie einen Anreiz zu handeln, da ich viel davon mache. Sie haben auch eine grosse Verhandlungsmacht und wenn diese wegfällt, dann können die Skaleneffekte nicht realisiert werden.
+
+*** 2.4.3 Verfügbarkeit substitutiver Inputs
+
+Die Macht der Zulieferer kann auch durch substitutive Inputs neutralisiert oder weiter eingeschränkt werden. Wenn man die Möglichkeit hat Input zu substituieren, dann ist die Macht nicht mehr so gross. Bsp.: Auto aus Kunststoff oder Metall
+
+*** 2.4.4 Beziehungsspezifische Investitionen
+
+Man kann Investitionen in Vermögensgegenstände machen, welche einer konkreten (Liefer-) Beziehung gewidmet sind. Wenn diese jedoch nicht genutzt werden, dann verlieren sie extrem an Wert. So werden die Zulieferer eigentlich erpressbar (hold up). Dies kann auch umgekehrt passieren. Jedoch wenn es eine wechselseitige beziehungsspezifische Investition gibt dann neutralisiert sich das wieder. Das Erpressungspotential liegt bei dem, welcher weniger zu verlieren hat.
+
+*** 2.4.5 Drohung mit Vorwärtsintegration
+
+Die Zulieferer können auch Downstream Unternehmen Forderungen entziehen und damit drohen wenn sie glaubhaft mit dem Eintritt in den Downstream Markt eindringen könnten. Wenn ein Zulieferer schon Eigenfertigungskapazitäten auf der Stufe der Branche hat dann ist es glaubwürdig. So akzeptieren Downstream Firmen eher höhere Preise, wenn die Alternative ein Markteintritt des Zulieferers ist, welches alles aufheizen würde.
+Bsp.: McDonalds Franchise (60% Franchise, 40% selber) -> Vorwärtsintegration hier
+
+** 2.5 Macht der Abnehmer
+
+Hier schaut man wieder die vertikale Beziehung an aber dieses Mal vertauscht.
+Abnehmer sind mächtig, wenn:
+- relative Konzentration auf der Abnehmerstufe höher als auf Zuliefererstufe
+- Einkaufsvolumina der Abnehmer hoch
+- Produkte der Branche leicht substituierbar (Bsp.: Coca Cola – Glas oder PET)
+- Branchenunternehmen haben abnehmerspezifisch investiert
+- glaubhafte Drohung der Abnehmer mit Rückwärtsintegration («Dann machen wir es selbst»)
+
+** 2.6 Fallbeispiel Branchenanalyse: Airline Industry
+Die billig Flugairline Ryanair hat zwischen 2000 und 2009 die höchste EBIT-Marge erziehlt.
+=TODO Bilder einfügen=
+
+Die Bedrohung der Wettbewerbskräfte scheint sehr hoch zu sein, aber die Branche ist profitabler geworden. Gründe dafür sind, dass es eine gute Wirtschaftslage in den letzten Jahren gab und steigende Passagierzahlen. Es ist also abzuwarten, ob dieser Trend bei zukünftigen Rezessionen oder Krisen anhält (Spoiler Alert: It doesn’t – It’s corona time). Auch Klima und Umweltschutz könnte für einen Abgang von der Entwicklung sorgen.
+*Allgemeines Fazit*:
+- Die Branchenattraktivität sollte nicht als Summe der einzelnen Wettbewerbskräfte / Einflussfaktoren verstanden werden
+  - Nicht alles anschauen, die Interaktionen zwischen einzelnen Kräften sind zentral
+- Die Branchenattraktivität ist nicht zeitkonstant
+  - Hat früher anders ausgesehen
+- Eine Branchenanalyse muss stets die spezifischen Eigenschaften der im Fokus stehenden Branche berücksichtigen
+
+* 3. Positionierung für Wettbewerbsvorteile
+
+In der gleichen Branche sind Unternehmen unterschiedlich profitabel. Sie schaffen es eine Position einzunehmen, in der sie sich vor den 5 Forces schützen.
+
+** 3.1 Ableitung der Positionierungsstrategie
+*** 3.1.1 Ein einfaches Beispiel
+
+Ich trinke Saft, aber sie werden unterschiedlich von mir geschätzt
+- Wertschätzung für bestimmten Saft Benefit B
+- Opfer dafür sind Kosten K
+Die Bedingung, dass Produktion und Handel stattfinden, ist B > K. Die Wertschätzung muss also die Kosten übersteigen. Die Wertschöpfung ist umso grösser, je tiefer die Kosten und je höher die Wertschätzung
+
+*Preis*
+Ich werde nicht mehr als meine Wertschätzung bezahlen, d.h. meine max. Zahlungsbereitschaft liegt bei B. Zudem muss das Unternehmen die Kosten decken können mit dem Preis.
+
+*Wertschöpfung*:
+Der Wettbewerb unter Firmen läuft über Konsumentenrenten und sie locken damit, aber sie wollen eigentlich Produzentenrente. Den Wettbewerb besitzt eigentlich die Unternehmung, welche die höchste Wertschöpfung hat. Es gibt so zwei Strategien wie man Wertschöpfung steigern kann. Wenn man Kosten gut im
+Griff hat =(P-K)= oder wenn man Konsumentenflüsterer ist =(B- P)=.
+Das Ganze passiert aber erst wenn =P > K= ist.
+Das Unternehmen kann die Produzentenrente gegenüber dem Wettbewerb eigentlich abschirmen, indem sie entweder Kostenvorteile oder Wertschätzungsvorteile generiert.
+
+Wenn der Wettbewerber versucht das Unternehmen X anzugreifen wird er nicht dazu kommen. Er verzichtet auf Gewinn und reicht die ganze Wertschöpfung, welche er noch hat als Konsumentenrente ab. Unternehmen X muss gar nicht so viel senken, da sein Vorsprung eigentlich dazu führt, dass er mehr wertschöpft. Kostenführer und Wertschätzungsführer können ihre Wettbewerber dazu zwingen auf Gewinne und ihre Produzentenrente zu verzichten, währenddessen sie dabei noch profitabel produzieren.
+
+*** 3.1.2 Logik der Positionierungsstrategien
+
+Wer am meisten Wert schöpft, hat einen Wettbewerbsvorteil. Er schirmt noch eine Produzentenrente ab, wenn sein schärfster Konkurrent bereits seine ganze Wertschöpfung als Konsumentenrente anbietet.
+
+Zwei Stossrichtungen:
+- *Kostenführerschaft* (grösste =B-K= mit =K= gut im Griff)
+  -> Ziel homogenes Produkt zu niedriegen Kosten als Konkurrenz herzustellen & verkaufen
+- *Wertschätzungsführerschaft* (grösstes =B-K=, mit =B= gut im Griff)
+  -> Ziel Produkt anzubieten, welches Alleinstellungsmerkmale besitzt
+
+**** 3.1.2.1 Kostenführerschaft
+Das grösste =B-K=, weil die Firma im Vergleich zur Konkurrenz K besser im Griff hat. Gründe dafür sind EOS, EKF und Economies of Scope.
+- Schutz vor Rivalität
+  - Kann noch Gewinne machen wenn Preise bei Wettbewerbern auf Herstellungskosten gedrückt wurden
+- Schutz vor marktmächtigen Abnehmern
+  - Können Preise nur auf Niveau von zweit-effizientesten Konkurrenten drücken – sonst ist Kostenführer Monopolist
+- Schutz vor marktmächtigen Zuliefern
+  - Gewinne machen, auch wenn Zulieferer Preise erhöht
+  - Wenn Konkurrenten pleite sind, dann ist Kostenführer Monopolist
+- Schutz vor Substituten
+  - Tiefe Kosten lassen tiefe Preise zuàAnreiz Substitut zu entwickeln ist gesunken o Schützt die ganze Branche damit eigentlich
+- Schutz vor Neueintritten
+  - Tiefe Kosten lassen tiefe Preise zuàAnreiz Neueintritte, nicht da
+  - Schützt auch gerade die ganze Branche damit
+    
+Es muss im Wettbewerb ein Angebot aus Preis und Qualität (alles was nicht Preisattribute sind) angeboten werden, welches attraktiver ist als die Konkurrenzangebote.
+
+Eine Firma muss ein möglichst hohes Level an =B-K= generieren, um viel Konsumentenrente =(B-P)= anzubieten können und trotzdem eine Produzentenrente =(P-K)= zu erzielen. Wettbewerbsvorteil hat die Unternehmung, welche das höchste =B-K= hat.
+
+*Value Map*
+-> Abbildung der Preis-Qualität-Kombinationen von Gütern
+- Annahme: Homogene Präferenzen der Konsumenten
+  - Also gibt es einen Musterkonsumenten
+- Indifferenzkurve bildet alle Preis-Qualitäts-Kombinationen mit gleich grosser Konsumentenrente ab
+  - Auf der gleichen Kurve ist KRA = KRB
+  - Markanteile sind aber nicht gleich aufgeteilt
+  - Wenn die Kurve sich aber nicht ändert dann bleibt Marktanteil konstant
+    
+Unterschiede der Indifferenzkurve:
+1. Position (Konsumentenrente verschiebt sich dadurch, oben – sinkt KR)
+2. Form (Präferenz der Kunden)
+3. Steigung (Bereitschaft für zusätzliche Qualität zu zahlen), flach z.B. nicht so bereit zu zahlen
+
+Wenn Indifferenzkurve nach oben geht, dann sinkt KR. Wenn das Konsumentenrentenangebot einer Firma sinkt, dann wandern die Kunden ab und der Marktanteil fällt.
+
+Kostenführerschaft bei Wertschätzungsparität
+Die tiefstmöglichen Kosten, die bei gegebener Qualität eines Gutes erreichbar wären. Es braucht die Effizienzgrenze nicht existieren würde, dann könnte man irgendwann ein Auto für 0 CHF produzieren.
+- =I = maximale KR=, welche =Y= bieten kann, wenn =P_(X, Y) = DK_Y=
+  - =Y= macht keinen Gewinn mehr, max. Angebot welches sie machen können
+- =II = nicht angreifbare PR= von =X=, wenn =P_X, Y = DK_Y=
+
+Ökonomische Logik
+Hier lassen wir die Wertschätzungsparität fallen und sagen die Kosten und die Wertschätzung sind verschiedenen. Sie sind aber beide auf der gleichen Indifferenzkurve was bedeutet, dass sie die gleiche Konsumentenrente anbieten. So kann ich die Produzentenrente vergleichen und dann sehe ich, Yahama hat die grössere =PR_Y= und somit hat sie ein höheres =B-K= und somit ein Wettbewerbsvorteil. Nun ist aber die Frage wie sie es machen. Man sieht, dass das =∆DK= grösser ist als der Wertschöpfungsnachteil =∆B=. Um herauszufinden ob sie Kostenführer sind sehe ich, ob die =∆DK= grösser sind als das =∆B=. So weiss ich, dass Yahama Kostenführer ist.
+Pricing Vorschau: Man ändert nichts an der angebotenen Konsumentenrente. -> Go for margin
+
+Beim zweiten Beispiel da gibt Yahama mehr Konsumentenrente anzubieten und dann wird die =PR= kleiner aber wenn Steinway & Sons mitziehen würde dann können sie das nicht, da sie den Preis nicht langfristig unter die =DK= setzten können. Die Marge wird also kleiner und hier wird dann Yahama Marktanteile gewinnen. -> Go for share
+
+IKEA Beispiel: Man sieht, wer einen Wettbewerbsvorteil hat und das ist IKEA und dann vergleicht man den Abstand der B’s und den Abstand der K’s und sieht, dass bei den B’s der gleiche Abstand ist und bei den Kosten ein grösserer Unterschied. So ist es Kostenführer. Es wird somit immer zuerst auf die Wertschöpfung geschaut und nachher entscheidet man ob es über Kosten oder Wertschätzungsseite geht.
+
+#+begin_src 
+Produkte können zu niedrigen Stückkosten produziert werden als Konkurrenzangebote.
+Mögliche Strategien:
+1) Verzicht auf Preisangriffe, um von höheren Gewinnmargen zu profitieren
+-> Go for margin
+2) Preise der Konkurrenten unterbieten, um Marktanteile zu stehlen
+-> Go for share
+#+end_src
+
+**** 3.1.2.2 Wertschöpfungsführerschaft
+Das grösste =B-K=, weil die Firma B besonders gut beherrscht (Produkt, das aus Sicht der Nachfrager Alleinstellungsmerkmale besitzt).
+- Schutz vor Rivalität
+  - Erhöht Ertragspanne und isoliert Firma von Preiswettbewerb in der Branche
+  - Monopolistische Stellung führt zu Kundenbindung -> strahlt auch auf andere Produkte der Unternehmung aus
+- Schutz vor marktmächtigen Abnehmern
+  - Fehlende Alternativen für das einzigartige Produkt -> sinkt Verhandlungsmacht der Abnehmer
+- Schutz vor marktmächtigen Zuliefern
+  - Zulieferern bieten nur wenige alternative Abnehmer an
+- Schutz vor Substituten
+  - Kundenloyalität senkt Bedrohung durch Ersatzprodukte
+- Schutz vor Neueintritten
+  - Zwang der Konkurrenten, Einzigartigkeit zu überwindenàEintrittsbarrieren
+  - Müssen Kundenloyalität zuerst brechen, bei Erfahrungsgüter besonders schwer
+
+*Wertschätzungsführerschaft bei Kostenparität*
+Ursachen:
+• Reputation des Produkts
+• Physische Charakteristika des Produkts
+• Individuelle Präferenzen und Erwartungen der Konsumenten
+• Eigenschaften und Ablauf der Verkaufstransaktion
+• Serviceart
+• Komplemente
+
+Ökonomische Logik
+Mercedes hat hier einen Wettbewerbsvorteil und macht es über =∆B=, welches grösser ist als der Kostennachteil =∆DK=. Hier werden sie aber nicht am Preis ändern. -> Go for margin
+
+Beim zweiten Beispiel ist, dass die Indifferenzkurve nach unten fällt und somit wird die Produzentenrente sinkt und somit will Mercedes angreifen und verlangt tiefere Preise. Ford müsste somit die Preise unter die =DK= setzen, was nicht möglich ist für sie. So gewinnen sie Marktanteile Mercedes. -> Go for share
+
+#+begin_src
+
+Produkte erfahren bei Kunden eine höhere Wertschätzung als Konkurrenzangebote.
+Mögliche Strategien:
+1) Premiumpreis durchsetzen, um höhere Gewinnmargen als Konkurrenz zu realisieren.
+-> Go for margin
+2) Preise der Konkurrenten «matchen», um Marktanteile zu steigern
+-> Go for share
+
+#+end_src
+
+** 3.2 Umsetzung der Positionierungsstrategien
+*** 3.2.1 Das konzept der Wertschöpfungskette
+*Ziel*: Quellen der Wettbewerbsvorteile sichtbar machen
+
+*Vorgehen*: Zerlegung des Unternehmens in wertschöpfungsbezogene Aktivitätsbereiche, die einen
+Beitrag zur Senkung der Kostenhöhe liefern und/oder zur Erhöhung der Wertschätzung
+
+Es wird Wert entlang der vertikalen Kette geschöpft. Es ist ein Prozess der Ansammlung von Wertschöpfungsaktivitäten und aus jedem wird ein Gut erstellt, welches bei der nächsten Aktivität wieder als Input dient. Es muss aber auf jeder Stufe gelingen, dass =B>K= ist.
+
+Wert wird geschöpft indem Güter entlang der vertikalen Kette bewegt werden. Auf jeder Stufe entsteht ein =B-K=, jedoch ist die Frage, wieviel Wert auf jeder einzelnen Stufe geschöpft wird.
+
+Idee: Die Unternehmung ist eine «Ansammlung» von Wertschöpfungsaktivitäten
+- jede Aktivität kann zur Wertschätzung B beitragen, welche die Konsumenten dem Produkt entgegenbringen
+- jede Aktivität kann zu den Kosten =K= beitragen, welche das Unternehmen in Kauf nimmt, um =B= zu maximieren / aufrechtzuhalten
+
+*** 3.2.2 Analyse der Kosten- und Wertschöpfungstreiber
+**** 3.2.2.1 Kostentreiber
+
+Erklären Kostenunterschiede in Wertschöpfungsaktivitäten zwischen Unternehmen Ansatzpunkte für die Analyse von Kostentreibern
+- Economies of Scope, Economies of Scale
+  - Scope: kapitalintensivere Technologie einsetzten, dass man besser auslasten kann und mehr Vielfalt produziert
+  - Scale: Kann besser verteilen?
+- Erfahrungskurve
+  - Menschliche Arbeit wichtig, kumulierte Erfahrung
+- Organisation von Transaktionen: Ausmass der Fertigungstiefe, Effizienz der Organisationsstrukturen im «internen» Bereich
+- Andere Kostentreiber: Inputpreise, Produktionsstandort, Economies of Density, gesetzliche Rahmenbedingungen
+  - EOD: aus Standort zurückzuführen, es gibt mehr Abnehmer aber geht auch um time to market -> Dichtevorteile
+
+**** 3.2.2.2 Wertschätzungstreiber
+
+Erklären, warum Unternehmen eine höhere Wertschätzung aus bestimmten Wertschöpfungsaktivitäten «herausholen» als ihre Konkurrenten Ansatzpunkte für die Analyse von Wertschätzungstreibern:
+- physische Charakteristika des Produktes: Qualität, Haltbarkeit, Ästhetik, Benutzerfreundlichkeit
+  - treiben «coolness» des iPhones
+- Art der Services und der Komplemente: Garantie, Wartung, Ergänzungsprodukte, Beratung, Ersatzteile, Schulung
+  - z.B. Genius Bar, Apple Care
+- Eigenschaften der Verkaufstransaktion: Verfügbarkeit, Schnelligkeit, Pünktlichkeit der Lieferung, Erreichbarkeit des Verkäufers
+- individuelle Faktoren/Erwartung der Konsumenten: Leistungsreputation des Produktes, Überlebenswahrscheinlichkeit/finanzielle Stabilität des Herstellers
+- Image des Produktes: positionaler Konsum, soziales Prestige
+  - z.B. Starbucks
+
+**** 3.2.2.3 Messbarkeit der Kostentreiber/Wertschätzungstreiber
+
+Kosten: Mit Hilfe des Rechnungswesens einigermassen bestimmbar Wertschätzung: Schwieriger zu bestimmen
+- Aber Methoden des Marketings liefern Anhaltspunkte: Conjoint Analysis, Hedonic Pricing Analysis, Attribute Rating Methode, usw.
+
+** 3.3 Selektionsbedingungen für Positionierungsstrategien
+
+Ab einem gewissen Punkt kann man nicht mehr beides machen, da es die Effizienzgrenze ist. So muss man entscheiden, welche Strategie man wählen will.
+
+*** 3.3.1 Selektionsbedingungen für Kostenführerschaft
+
+- EOS und Erfahrungskurve sind potentiell bedeutsam, aber keine Firma schöpft sie aus Art des Produktes beschränkt Wertschätzung weiter zu optimieren
+  - Schwer differenzierbare Produkte
+- Kunden sind preisempfindlich, kaum Bereitschaft für zusätzliche Qualität, Leistung etc. Produkt eher Inspektionsgut
+  - Kann Konkurrent gerade nachmachen, keinen nachhaltigen Vorteil somit
+
+*** 3.3.2 Selektionsbedingungen für Wertschätzungsführerschaft
+
+- Typische Konsument bereit erheblichen Aufschlag für zusätzliche Qualität, Leistung, besseres Image, usw. zu bezahlen
+- EOS und Erfahrungskurve zwar bedeutsam, werden von der Konkurrenz aber bereits ausgeschöpft
+  - Hoffnungslos anzukämpfen
+  - Differenzierung aussichtsvoller als Broad Coverage
+- Produkt eher ein Erfahrungsgut
+  - Blitzimitationen weniger möglich, da Qualität nicht ersichtlich ist
+
+** 3.4 Targeting und Marktsegmentierung
+
+Kostenführerschaft vs. Wertschätzungsführerschaft sind grobe Stossrichtungen, aber eine Auswahl der Zielmärkte selbst braucht es auch in der Positionierungsentscheidung.
+
+*Focus Strategy*
+Wertschöpfungsbemühungen auf ein bestimmtes Marktsegment konzentrieren? z.B. Subaru
+
+*Broad Coverage*
+Wertschöpfungsbemühungen über alle Marktsegmente ausdehnen? z.B. VW
+
+*** 3.4.1 Marktsegmentierung
+
+In der Regel werden Produkt-Kunden-Segmentierung gemacht. Zwei Fragen werden gestellt:
+- Produktarten, welche Konkurrenten anbieten?
+- Unterschiedliche Kundengruppen, welche Produktarten kaufen?
+
+*Kundengruppen Kriterien*:
+- Demografische Faktoren (Alters- und Einkommensklasse, etc.)
+- Geografische Faktoren (Wohnregion)
+- Nutzungshäufigkeit (Gelegenheitsnutzer bis Dauernutzer)
+- Informationsstand (Kenner bis Laie)
+- Zahlungsbereitschaft für zusätzliche Qualität
+- Benutzter Vertriebskanal
+  
+*Ziel der Kundensegmentierung*:
+- Kunden innerhalb gebildeten Segments sollten vergleichbare Produktwünsche und Präferenzstrukturen
+- Auf absatzpolitischen Instrumenten (z.B. Werbung, Preissetzung) gleich reagieren
+  
+Ergebnis davon ist die Produkt-Kunden-Matrix. Hier sieht man in welchen Zellen man eher aktiv sein will, also Nischen oder eher nicht.
+
+*** 3.4.2 Broad Coverage Strategy
+Alle Marktsegmente werden eigentlich abgedeckt, indem alle Kundengruppen und alle verwandten Produktarten angeboten werden.
+- Bsp.: Gillette & VW wollen alle abdecken
+
+*Ökonomische Logik*:
+- Economies of Scope, zwischen Produkten, welche unterschiedlichen Marktsegmenten angeboten werden
+  - Kann Fixkosten besser streuen über Alles
+- Economies of Scale, Herstellung von Komponenten, welche in mehrere Produktarten eingehen
+  - Baukastenprinzip: Endprodukte sind nur Kombinationen aus Standortbausteinen, welche Skaleneffekte ermöglichen
+  - z.B. VW Abgasskandal – 1 Motor in über 10 Mio. Autos eingebaut, gewaltige Stückzahlen und somit wenn überall hineinbaut (also Audi, Skoda, Seat, Bentley).
+
+    
+*** 3.4.3 Focus Strategy
+Die Grundidee ist die Eingrenzung des Markteintritts durch Spezialisierung. Es gibt verschiedene Arten davon:
+- *Kunden*spezialisierung: Konzentration auf einziges Kundensegment o z.B. Sportartikel Spezialisierung: Wilson – Tennis
+- *Produkt*spezialisierung: Konzentration auf eine Produktart o z.B. Subaru Allrad
+- *Geografische* Spezialisierung
+  - Sehr typisch für Lebensmittelhersteller, Brauerei, oftmals nur eine Region
+    
+In Realität sind diese nicht nur einzeln, sondern hängen auch zusammen. Als Beispiel Subaru bedient nicht alle Kundengruppen und sind eine Produktspezialisierung.
+
+*Ökonomische Logik*:
+- Berücksichtigung Bedürfnisse angepeilter Kundengruppe und somit höheres &
+- Trotz begrenzter EOS und Economies of Scope gute Kostenkontrolle, da man alles weglassen kann was die Kunden nicht interessiert
+- Mehr Treffsicherheit
+- Unterversorgt Kundengruppen bei bestimmten Produktattributen, welche Abstriche von & bedeuten
+  - z.B. Microsoft Word – Scientific Word
+- Überversorgt einzelne Kundengruppe bei anderen Produktattributen, verursacht " ohne & zu erzeugen
+- Geografische Spezialisierung häufigste Form
+  - Viele Vorteile: Lebensmittel werden schlecht, Bier schwer zu transportieren, Kosten billiger als regionale Marke
+  -  Gibt auch globale Unternehmen mit Fokusstrategien – Hilti (verkauft nur an Professionals), Harley Davidson (ältere Kundengruppen in Midlife-Crisis)
+
+*** 3.4.4 Porters generische Wettbewerbsstrategien
+Nach Porter gibt es 3 Möglichkeiten sich zu positionieren:
+1. Wie man mehr Wertschöpfung bekommt?
+2. Frage des Targetings?
+
+Zusammenfassend:
+- Soll die Unternehmung ihre Wertschöpfungsbemühungen über alle/viele Marktsegmente ausdehnen (Broad Coverage)? Dann kann sie entweder durch Kostenführerschaft oder durch Differenzierung erfolgreich sein.
+- Oder soll sie im anderen Extremfall ihre Wertschöpfungsbemühungen auf ein bestimmtes Marktsegment konzentrieren (Focus)?
+
+Entscheidet sich die Unternehmung für Fokussierung, dann konfiguriert sie ihre Wertkette gezielt für die Bedienung eines schmalen Sets von Marktsegmenten
+- Sie kann dann bei der Bedienung dieser Segmente niedrigere Kosten haben als ihre breit aufgestellten Konkurrenten (Kostenführer sein)
+- Sie kann die Bedürfnisse der Kunden besser treffen und ein Preispremium verlangen (Wertschätzungsführer sein)
+- Oder beides zugleich (Kosten- und Wertschätzungsführer sein)
+
+** 3.5 Pricing-Strategien
+Die Entscheidung zwischen «Go for share» und «Go for margin» ist abhängig von der Positionierungsstrategie und Preiselastizität der Nachfrage.
+- Preiselastizität hängt von Grad der Produktdifferenzierung (Anzahl Nicht-Preis-Attribute) ab
+
+So gibt es eigentlich einen Trade-Off zwischen Marge und Marktanteilen. Die Höhe der Preiselastizität der Nachfrage entscheidet da auch, ob ein Margenverzicht durch höhere Markanteile überkompensiert werden kann (und vice versa).
+
+Bsp.: Autos (Farben, PS etc.)
+- Reagieren eher schwächer gegenüber Preis
+  - Lambo 250k, dann verlangt Verkäufer 260k – dann geben sie es trotzdem auch
+- Go for margin
+  - Kann ich Marge rausholen
+Bsp.: USB Stick
+- Reagieren eher stärker gegenüber Preis
+  - USB Stick 2x, einer 15CHF und einer 20CHF, gleicher Speicherplatz
+  - Eine Preisänderung macht da viel ausmacht - Go for share
+  - So kann ich einfach Marktanteile stehlen
+
+*** 3.5.1 Handlungsempfehlungen bei Kostenvorteil
+
+- Situation A: Niedrige Preiselastizität der Nachfrage (hohe Differenzierbarkeit) -> Go for margin: Keine Preissenkungen, schöpfen einfach Marge ab
+  - Niedrig-Kosten-Anbieter schöpft Gewinne durch niedrigere Stückkosten ab 
+- Situation B: Hohe Preiselastizität der Nachfrage (tiefe Differenzierbarkeit) ->  Go for share: Senke die Preise (schaut eher auf Preise) o Niedrig-Kosten-Anbieter gewinnt Marktanteile und überkompensiert damit den Margenverzicht pro Stück
+
+*** 3.5.2 Handlungsempfehlungen bei Wertschätzungsvorteil
+
+- Situation C: Niedrige Preiselastizität der Nachfrage (hohe Differenzierbarkeit) -> Go for margin: Verlange Premiumpreise,
+  - Premiumanbieter kann Wertschöpfungsvorteil ungestraft durch Marktanteilsverluste über höhere Preise abschöpfen
+- Situation D: Hohe Preiselastizität der Nachfrage (tiefe Differenzierbarkeit) -> Go for share: Suche Preisparität
+  - Premiumanbieter offeriert eine höhere Konsumentenrente, was zusätzliche Konsumenten anzieht
+
+* 4 Verteilung von Wettbewerbsvorteilen
+
+Nachhaltigkeit: Konkurrent versucht, Wettbewerbsvorteil nachzuahmen oder zu neutralisieren aber es gelingt ihr nicht.
+z.B. Coca Cola ist seit Jahrzehnten überdurchschnittlich profitabel, obwohl 5 Forces Modell sagt, dass dies verschwinden wird.
+Ökonomischen Grundlagen der nachhaltigen Wettbewerbsvorteile sind:
+- Ressources und Capabilities 
+- Isolationsmechanismen
+
+** 4.1 Resource-Based-Theory of the Firm
+
+Wettbewerbsvorteile können nur nachhaltig sein, wenn sich Unternehmen voneinander unterscheiden und diese Unterschiede dauerhaft sind. Nachhaltige Wettbewerbsvorteile können nicht alleine auf Positionen im Markt beruhen (market-based view). Dies aus dem Grund, da ja sonst jeder diese Position einnehmen würde und somit können sie nur nachhaltig sein, wenn sich die Unternehmen intern dauerhaft unterscheiden. Hier spricht man also vom *resourced-based view*. Diese Unterschiede zwischen Unternehmen und ihre daraus resultierenden Wettbewerbsvorteile basieren aus Resources und Capabilitites.
+
+*** 4.1.1 Ressources und Capabilitites
+
+*Resources*:
+Resources sind unternehmensspezifische Vermögensgegenstande wie z.B. Unternehmensspezifisches Know-How der Mitarbeiter. Dies kann bei Coca Cola z.B. die Geheimrezeptur sein oder wenn eine Firma ein Patent für Arzneimittel hat. Reputation gilt auch dazu, wenn man sich eine Qualitätsreputation aufgebaut hat wie z.B. Sprüngli Schokolade. Diese Reputation kann man nicht einfach übernehmen. Bei den Japaner hat sich durch die Geschichte der Kapitalknappheit Fertigkeiten eingeschlichen, was das Ganze bei ihnen erklärt.
+
+*Capabilitites*:
+Capabilities sind aber Fähigkeiten, Resources in überlegener Weise zu nutzen, d.h.
+Aktivitäten, die ein Unternehmen im Vergleich zur Konkurrenz besonders gut ausführt. Hier braucht es aber Resources als Grundlage von Capabilities. Ein Beispiel dafür ist, dass Procter & Gamble besonders gut Markenbilden kann. Sie sind:
+- Über mehrere Produkte und/oder Märkte hinweg wertvoll
+  - Honda nutzt Fähigkeiten auch zum Rasenmäher bauen
+- In organisationale Routinen eingebettet
+  - Eingespielte Verhaltensmuster in Unternehmen
+  - Stecken nicht in einzelnen Köpfen des Einzelnen, sondern bleiben in der
+Unternehmung als tazites Wissen (Velofahren erklären ist auch tazites Wissen)
+
+*** 4.1.2 Kernargumentationsmuster der Resourced-Based-Theory of the Firm
+
+Wenn alle Unternehmen den Gleichen Bestand an Resources und Capabilities hätten, dann gäbe es keine Unterschiede zwischen den Firmen.
+Nachhaltigkeit des Wettbewerbsvorteils erfordert:
+- Knappheit der zugrundeliegenden Resources und Capabilities
+  - Nicht jeder sollte es haben
+- Imperfekte Mobilität der zugrundeliegenden Resources und Capabilities
+    - Zeug sollte klebrig sein
+    - Perfekte Mobilität Fussball: perfekt kompetitiver Markt zum Handeln, Rasen, Umziehkabine, Trainingshalle alles ist fast gleich etc.
+    - Darum wird so viel gehandelt mit Spieler
+  - Fehlende Märkte
+    - Non-tradeble assets – man kann das Know-How nicht verkaufen, Federer kann sein Wissen nicht verpacken
+  - Beziehungsspezifische Vermögensgegenstände
+    - Nicht jede Ressource ist für jedes Unternehmen gleich wertvoll, einige besitzen schon komplementär Ressourcen und können damit eine höhere Wertvollkeit bekommen
+    - Ko-Spezialisierung: HSV Mani-FlankeàBeziehung dazwischen
+
+** 4.2 Isolationsmechanismen
+Knappheit und Immobilität von Ressources und Capabilities reichen zur Aufrechterhaltung von Wettbewerbsvorteilen nicht aus. Sie sind lediglich notwenige aber nicht eine hinreichende Bedingung. Andere Unternehmen sind auch in der Lage eigene Resources und Capabilities aufzubauen, mit denen sie Etablierten Unternehmen Konkurrenz.
+
+Beispiel: Xerox vs. Canon 70er Jahren
+Xerox war sehr gut im Business und haben immer direkt immer bei einer Störung automatisch gemeldet und jemand kam es reparieren. Jedoch wurde diese Fähigkeit von Canons fototechnischen Know-How geschlagen, in dem sie zuverlässigere Geräte produzierten, welche gar keinen Service benötigten. Dies neutralisierte die Service Kompetenz von Xerox.
+
+*** 4.2.1 Der Fall Intel
+*Netzwerkexternalitäten*
+- 1980 wählte IBM den Intel 8088 Mikroprozessor als «Maschine» für PC
+  - Je mehr es brauchen, desto mehr Nutzen für alle und das Produkt
+- «Wintel»-Umgebung (IBM, Microsoft, Intel) wurde Standard
+  - IBM dachte PC sei nur ein Spielzeug für Kinder nicht EDV
+- alle Prozessoren mussten zur «Wintel»-Umgebung kompatibel sein o alle mussten kompatibel damit sein 
+
+*Patente*
+- Aufbau eines scharfen Regimes zur Durchsetzung der geistigen Eigentumsrechte o Wurde immer alle wegen Plagiat angeklagt etc.
+- 1994: Intel verliert zwei Musterfälle vor Gericht. Auch andere Firmen dürfen einen bestimmten Mikrocode benutzen. Patentschutz erodiert
+  - Ging aber nicht immer gut
+
+*Reputation*
+- «Intel Inside» gehört zu den meist wiedererkannten Marketing-Symbolen in den USA überhaupt
+- PC-Hersteller wie Dell und Compaq zögern, von Intel zu AMD zu wechseln, weil Endkonsumenten «Intel Inside» honorieren (Zahlungsbereitschaft um 30% höher als für leistungsgleiche Konkurrenzchips)
+  - Preisabschläge verpuffenàweil Intel Reputation wie Isolationsmechanismen wirkt
+
+*Fazit*
+- Am Ausgangpunkt für Intels Erfolg stand eine „Zufallskomponente“
+- Technische Innovationen wurden von der Konkurrenz bald eingeholt
+- Die heutige Stellung von Intel ist auch auf die geschickte Bewirtschaftung von Isolationsmechanismen zurückzuführen
+
+Fallbeispiel Kostenführerschaft: Ryanair
+- Hohe EBIT-Marge
+- Grosses =B-K= -> Wertschöpfungsvorteil
+- Bei Kennzahlen wird nicht bei 0 begonnen, kleiner Trick
+- Preis ist nur eine Stellschraube schlussendlich
+- Andere Airlines fliegen über den Kontinent heraus und Gepäck ist nur ein Handgepäck im Preis
+- Personal bietet keine Wertschätzung
+  - 50% der Piloten sind von Drittfirmen
+    - Entlassung einfacher, weniger Kosten bei Krankheit
+  - Geringe Fixlöhne mit hohem variablen Lohnanteil § Personal will so viel wie möglich verkaufen
+  - 2018 Streik für Collective Labour Agreements
+    - Verbesserungen Verspätung, Flugausfälle,
+  - Ryanair kann bei Personal die Kosten sehr tief halten und sind sehr optimiert 
+- Regionale Flughäfen, kleine welche manchmal extrem ausserhalb sind
+  - Höhere Verhandlungsmacht
+  - Geringere Landegebühren
+- Nur Direktflüge (Point-to-Point) und Kurzstrecken à um Hub-System zu vermeiden
+  - Keine Kosten für Transfer von Passagieren und Gepäckstücke
+  - Economies of Density, Dichte potentiellen Kunden – Turnaround time – durchschnittlich 30 Minuten am Boden Standardisierte Flugzeugflotte Boeing 737
+  - Tiefere Wartungs- und Schulungskosten – nur für ein Gerät
+  - Höhere Flexibilität – spezifische Ausbildung der Piloten, kann schnell wechseln 
+  - Erfahrungskurveneffekte
+- Knappes Tanken der Flugzeuge -> Kerosin wiegt viel, wenn ich volltanke dann verbrauche ich mehr
+- EOS durch mehr Sitze und hohen «load factor»
+  - Auslastung über 85% sonst bei anderen 70% Ticket online oder Callcenter
+- Passagierklasse kaum differenziert – keine Klassen 
+- Extra-Gebühren -> alles kostet
+- Interne Infrastruktur ist seit 2018 auf Cloudplattform Amazon Web Services (AWS) 
+  - Kosteneinsparungen durch Datenzentren reduzieren, Effizienz steigern
+- Marketing durch Publicity: Michael O’Leary, CEO von Ryanair macht immer im Frühling provokative Statements, dass sie Medienpräsenz bekommen
+  - «About passengers who forget to print their boarding pass: we think they should pay 60$ for being so stupid»
+  - «Sometimes there is not even a road to the airport we fly to»
+
+Für Langstreckenflüge würde sich die Strategie von Ryanair nicht eignen, aufgrund von:
+- Flugzeugauslastung/Turn around
+- Personal
+- Nachtflugverbote
+- Angebot à la carte
+- Europäischer Luftraum offen, bei Langstrecken mehr Genehmigungen
+
+*Fazit*
+Ryanair verzeichnet zunehmende Passagierzahlen/Marktanteile Dies ist zurückzuführen auf:
+- Hohe Konsumentenrente (Gutes Preis-/Leistungsverhältnis)
+- Preiselastizität der Nachfrage eher hoch (homogene Konsumentenpräferenzen)
+ -> Kostenvorteil grösser als Wertschätzungsnachteil 
+-> «Go for share» Pricing-Strategie
+-> Gewinnsteigerungen in hart umkämpfter Branche
+
+«Over the past year we grew traffic 9% to 130m guests, by once again cutting fares (down 3%), and saving our guests over €150m. More importantly, we reduced unit costs by 1%, so even at these lower prices, profit after tax (PAT) grew 10% to a record of €1.45bn, a net margin of 20%.» (Ryanair Annual Report 2018).
+«Ryanair Becomes First EU Airline To Report Monthly CO2 Emissions”
+
+Heute interessieren sie sich für Themen wie Umweltschutz und Klimawandel und werden das zukünftig in ihre Strategieplanung eine Rolle spielen.
+- Die thematisierten Positionierungs- und Pricing-Strategien sind als «ordnende» Denkkonzepte zur Gestaltung einer erfolgreichen Wettbewerbsstrategie zu sehen
+- Die Rahmenbedingungen im Wettbewerb ändern sich über die Zeit, so dass «Strategieentscheidungen» ggf. neu beurteilt werden müssen
+- Durch die Möglichkeit des «Targetings» ergeben sich für Firmen eine Vielzahl von verschiedenen Handlungsoptionen auf dem Weg zu einer attraktiven Wettbewerbsposition
