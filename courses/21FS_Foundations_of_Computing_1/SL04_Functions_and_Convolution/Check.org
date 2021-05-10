@@ -1,0 +1,8 @@
+- What is a function and what properties must it satisfy to be defined as such?
+• What is the plot of the exponential and logarithmic functions?
+• What is a Boolean function, the Hamming distance, the image function?
+• What is convolution? How is it written mathematically? Can you explain it visually? Can you convolve two 1D discrete functions? What is a box function, and a Dirac function? What happens if we convolve two identical box functions? What happens if we convolve a function with a Dirac function?
+• What are the properties of convolution?
+• How do we convolve two images? Can you write it mathematically? Can you explain visually? Can you convolve an image with filter?
+• How do we use convolution to reduce noise or highlight contours in an image?
+• How do we use convolution for feature detection?

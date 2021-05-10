@@ -3,6 +3,7 @@
 ## Review of Set Theory
 
 ### Cantor's definition of a Set
+
 A set S is a "collection into a whole S of define and separate objects of our intuition or our thought. These objects are called the elements of S"
 
 Basically, a set is a collection of distinct objects. That's it. Nothing else.
@@ -150,3 +151,15 @@ Convolution replaces each pixel value with a "weighted sum" of all the values in
 Let f, g, y be discrete functions
 
 ## Neural Network
+
+### Convolutional Neural Networks (CNN)
+
+Convolutional Neural Networks (also called CNNs or ConvNets) consist of a series of convolutional layers that convolve the original image with different filters, each one dedicated to the detection of different features (lines, circles, faces, etc.).
+These filters are learned through a process, called training, done with an algorithm called backpropagation.
+The output of these convolutional layers is then processed by a classifier to return an output, which can be
+the probability that there is, for example, a “car”, a “dog’ or any object the network was trained to recognize.
+
+### Filters of a CNN
+
+- **Lower layer filters** learn simple features (lines, curves)
+- **Higher layer filters** learn complex patterns (eyes, faces, textures, objects)
